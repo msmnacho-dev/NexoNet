@@ -1,0 +1,25 @@
+[
+  {
+    "mobileResult": "connected overview and readable HTML legend"
+  },
+  {
+    "contextLoss": "CSS fallback takes over"
+  },
+  {
+    "contextRestored": "3D resumes at the same scroll position"
+  },
+  {
+    "runtimePreference": "renderer disposed and recreated without duplicate worlds"
+  },
+  {
+    "shortMobile": "stage controls remain inside viewport"
+  },
+  {
+    "headlessWebGLScroll": {
+      "medianMs": 16.7,
+      "p95Ms": 16.8,
+      "maxMs": 16.9
+    },
+    "note": "Lab sample on this computer; physical mobile performance remains to validate."
+  }
+]

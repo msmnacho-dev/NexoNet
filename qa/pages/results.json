@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "images": "ok",
+      "gallery": "ok",
+      "overflow": "ok"
+    },
+    {
+      "width": 390,
+      "images": "ok",
+      "gallery": "ok",
+      "overflow": "ok"
+    }
+  ],
+  "noJavaScript": "ok",
+  "errors": [],
+  "failures": []
+}

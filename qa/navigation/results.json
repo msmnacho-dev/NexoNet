@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "reducedMotion": "no-preference",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "reducedMotion": "no-preference",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "reducedMotion": "no-preference",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "reducedMotion": "no-preference",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "reducedMotion": "no-preference",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "reducedMotion": "reduce",
+      "headerTop": 0,
+      "keyboardMenu": true,
+      "sectionHeadingsUncovered": true,
+      "closingAndFooterCtas": true
+    }
+  ],
+  "shortMenuReachable": true,
+  "directHash": true,
+  "errors": [],
+  "consoleErrors": []
+}

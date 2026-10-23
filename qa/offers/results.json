@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "ecoInFirstViewport": true,
+      "iaDirectlySelectable": true,
+      "proposalOrder": [
+        "Web Eco",
+        "IA"
+      ],
+      "includes": 4,
+      "ctasAndDownloads": true,
+      "noClipping": true
+    }
+  ],
+  "noJavaScriptContent": true,
+  "errors": [],
+  "consoleErrors": [],
+  "submittedRequests": []
+}

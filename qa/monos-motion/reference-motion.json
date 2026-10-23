@@ -1,0 +1,4154 @@
+[
+  {
+    "width": 1440,
+    "label": "entry",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "pointer-left",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "pointer-right",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "intro",
+    "scrollY": 765,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7533f19 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-2708c68 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-92c51b9 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "services",
+    "scrollY": 1800,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7533f19 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-2708c68 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-92c51b9 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "work",
+    "scrollY": 3330,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7ea6ec7 e-con-full e-flex e-con e-child elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-image-carousel swiper-wrapper"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 3466.796875
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 3526.2171936035156
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3549.269805908203
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "process",
+    "scrollY": 5219,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 300,
+          "easing": "cubic-bezier(0.58, 0.3, 0.005, 1)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 300,
+          "easing": "cubic-bezier(0.58, 0.3, 0.005, 1)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 300,
+          "easing": "cubic-bezier(0.58, 0.3, 0.005, 1)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 300,
+          "easing": "cubic-bezier(0.58, 0.3, 0.005, 1)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-item elementor-item-anchor elementor-item-active"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-widget-container elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-widget-container elementor-motion-effects-element"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "mc_slideOut",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show"
+      }
+    ],
+    "transformed": [
+      {
+        "tag": "IMG",
+        "class": "attachment-large size-large wp-image-6144",
+        "text": "Servicio de branding y diseño de marca de Monos",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)",
+        "opacity": "0"
+      },
+      {
+        "tag": "IMG",
+        "class": "attachment-large size-large wp-image-6924",
+        "text": "Servicio de diseño UI/UX de Monos",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)",
+        "opacity": "0"
+      }
+    ],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 183
+      },
+      {
+        "text": "monos",
+        "y": 243.390625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 758.921875
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1948.515625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 4912.15625
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 2571.078125
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 5096.57666015625
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2677.625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 5092.987548828125
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3481.171875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 5077.19921875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4271.015625
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 5076.859375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 5884.359375
+      },
+      {
+        "text": "Diseño Web",
+        "y": 6063.859375
+      },
+      {
+        "text": "Desarrollo",
+        "y": 6243.859375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 6442.359375
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 6961.28125
+      },
+      {
+        "text": "Rilastil",
+        "y": 7652.671875
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 7652.671875
+      },
+      {
+        "text": "Happylandia",
+        "y": 7652.671875
+      },
+      {
+        "text": "Simon Rack",
+        "y": 8167.0625
+      },
+      {
+        "text": "Luismi1912",
+        "y": 8167.0625
+      },
+      {
+        "text": "Nordgol",
+        "y": 8167.0625
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8679.0625
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 9343.984375
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9824.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9854.90625
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9807.109375
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 13126.453125
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 13557.390625
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 13557.390625
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 13557.390625
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 14076.140625
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14052.375
+      },
+      {
+        "text": "Contáctanos",
+        "y": 14952.375
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "entry",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca\n 🐵",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "pointer-left",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "pointer-right",
+    "scrollY": 0,
+    "animations": [
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "intro",
+    "scrollY": 717,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-a95ee31 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-0de12fd e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-64fd38e e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-1d1d121 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-cefb63e e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-623fe07 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7895000 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-bdef7ea e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-dab8eda e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "services",
+    "scrollY": 1688,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-a95ee31 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-0de12fd e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-64fd38e e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-1d1d121 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-cefb63e e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-623fe07 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7895000 e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-bdef7ea e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1000,
+          "easing": "cubic-bezier(0, 0.33, 0.07, 1.03)",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-dab8eda e-flex e-con-boxed e-con e-child elementor-motion-effects-element"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1931.296875
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "work",
+    "scrollY": 3123,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 400,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-7ea6ec7 e-con-full e-flex e-con e-child elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      }
+    ],
+    "transformed": [],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 3366.296875
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 3249.993751525879
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3253.25390625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "process",
+    "scrollY": 4895,
+    "animations": [
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 287.9745339754973,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-b4bbfa4 e-con-full e-flex e-con e-parent e-lazyloaded"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-element elementor-element-528196b e-con-full e-flex e-con e-parent e-lazyloaded"
+      },
+      {
+        "name": "CSSTransition",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 500,
+          "easing": "ease",
+          "endDelay": 0,
+          "fill": "backwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": "elementor-image-carousel swiper-wrapper"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "sliding",
+        "state": "running",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 15000,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "none",
+          "iterationStart": 0,
+          "iterations": null
+        },
+        "element": "elementor-widget-container"
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      },
+      {
+        "name": "elementor-headline-dash",
+        "state": "finished",
+        "timing": {
+          "delay": 0,
+          "direction": "normal",
+          "duration": 1200,
+          "easing": "linear",
+          "endDelay": 0,
+          "fill": "forwards",
+          "iterationStart": 0,
+          "iterations": 1
+        },
+        "element": {}
+      }
+    ],
+    "transformed": [
+      {
+        "tag": "IMG",
+        "class": "attachment-large size-large wp-image-6924",
+        "text": "Servicio de diseño UI/UX de Monos",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)",
+        "opacity": "0"
+      },
+      {
+        "tag": "IMG",
+        "class": "attachment-large size-large wp-image-6146",
+        "text": "Servicio de desarrollo web de Monos",
+        "transform": "matrix(1.25, 0, 0, 1.25, 0, 0)",
+        "opacity": "1"
+      }
+    ],
+    "headings": [
+      {
+        "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíble",
+        "y": 156.5
+      },
+      {
+        "text": "monos",
+        "y": 254.890625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Tu página web puede verse más guay que nunca",
+        "y": 549.65625
+      },
+      {
+        "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el usuar",
+        "y": 1166.734375
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 4160.796875
+      },
+      {
+        "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+        "y": 1860.25
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 4230.1812744140625
+      },
+      {
+        "text": "Diseño encantador",
+        "y": 2473.015625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 4203.5172119140625
+      },
+      {
+        "text": "Trabajo colaborativo",
+        "y": 3030.078125
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 4207.469482421875
+      },
+      {
+        "text": "Lealtad a tus usuarios",
+        "y": 3621.46875
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Rendimiento superior",
+        "y": 4168.109375
+      },
+      {
+        "text": "Diseño de Marca",
+        "y": 4809.265625
+      },
+      {
+        "text": "Diseño Web",
+        "y": 5041.71875
+      },
+      {
+        "text": "Desarrollo",
+        "y": 5273.9375
+      },
+      {
+        "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+        "y": 5523.96875
+      },
+      {
+        "text": "Creamos diseños que cautivan",
+        "y": 5911.875
+      },
+      {
+        "text": "Rilastil",
+        "y": 6316.09375
+      },
+      {
+        "text": "Ador Barcelona",
+        "y": 6632.546875
+      },
+      {
+        "text": "Happylandia",
+        "y": 6950.09375
+      },
+      {
+        "text": "Simon Rack",
+        "y": 7269.59375
+      },
+      {
+        "text": "Luismi1912",
+        "y": 7587.140625
+      },
+      {
+        "text": "Nordgol",
+        "y": 7904.6875
+      },
+      {
+        "text": "¿Te gusta lo que ves?\n\t\t\t\t\n\t\t\t\t\tempecemos a trabajar",
+        "y": 8248.453125
+      },
+      {
+        "text": "Nuestra metodología",
+        "y": 8877.90625
+      },
+      {
+        "text": "Fase 1:Descubrimiento",
+        "y": 9121.75
+      },
+      {
+        "text": "Fase 2:\nDiseño",
+        "y": 9158.34375
+      },
+      {
+        "text": "Fase 3: Desarrollo",
+        "y": 9120.71875
+      },
+      {
+        "text": "Últimos artículos del blog",
+        "y": 10356.359375
+      },
+      {
+        "text": "Qué debe tener la web de una empresa con clientes",
+        "y": 10718.921875
+      },
+      {
+        "text": "Cómo elegir agencia SEO: preguntas antes de firmar",
+        "y": 11044.078125
+      },
+      {
+        "text": "Rebranding de Cepsa a Moeve: qué enseña a tu empresa",
+        "y": 11369.234375
+      },
+      {
+        "text": "Somos muy monos, extremadamente curiosos,\n\t\t\t\t\n\t\t\t\t\tresolutivos, adapt",
+        "y": 11557.3125
+      },
+      {
+        "text": "Contáctanos",
+        "y": 12244.640625
+      }
+    ]
+  }
+]

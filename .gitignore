@@ -1,0 +1,10 @@
+node_modules/
+dist/
+test-results/
+.vite/
+.npm-cache/
+windows-ca.pem
+.backups/
+debug.log
+.publish/
+artifacts/

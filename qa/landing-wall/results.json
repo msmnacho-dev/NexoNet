@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "columns": 3,
+      "opposingParallax": true,
+      "reverse": true,
+      "sixLocalConcepts": true,
+      "previewsAndKeyboard": true,
+      "commercialDetailsPreserved": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "columns": 3,
+      "opposingParallax": true,
+      "reverse": true,
+      "sixLocalConcepts": true,
+      "previewsAndKeyboard": true,
+      "commercialDetailsPreserved": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "columns": 2,
+      "opposingParallax": true,
+      "reverse": true,
+      "sixLocalConcepts": true,
+      "previewsAndKeyboard": true,
+      "commercialDetailsPreserved": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "columns": 2,
+      "opposingParallax": true,
+      "reverse": true,
+      "sixLocalConcepts": true,
+      "previewsAndKeyboard": true,
+      "commercialDetailsPreserved": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "columns": 2,
+      "opposingParallax": true,
+      "reverse": true,
+      "sixLocalConcepts": true,
+      "previewsAndKeyboard": true,
+      "commercialDetailsPreserved": true,
+      "reducedMotion": true,
+      "noClipping": true
+    }
+  ],
+  "noJavaScript": true,
+  "directDetailsLink": true,
+  "errors": [],
+  "consoleErrors": [],
+  "failedAssets": [],
+  "submissions": []
+}

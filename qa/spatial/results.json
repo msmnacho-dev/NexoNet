@@ -1,0 +1,50 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "camera": "five stages, reverse, jump and keyboard",
+    "gallery": "three samples with controls",
+    "demo": "manual next, select, reset",
+    "contact": "honest download",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "height": 900,
+    "camera": "five stages, reverse, jump and keyboard",
+    "gallery": "three samples with controls",
+    "demo": "manual next, select, reset",
+    "contact": "honest download",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "height": 900,
+    "camera": "five stages, reverse, jump and keyboard",
+    "gallery": "three samples with controls",
+    "demo": "manual next, select, reset",
+    "contact": "honest download",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "camera": "five stages, reverse, jump and keyboard",
+    "gallery": "three samples with controls",
+    "demo": "manual next, select, reset",
+    "contact": "honest download",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "reduced": "five static states and native stage links"
+  },
+  {
+    "width": 390,
+    "reduced": "five static states and native stage links"
+  }
+]

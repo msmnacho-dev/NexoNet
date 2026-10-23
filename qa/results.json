@@ -1,0 +1,47 @@
+[
+  {
+    "width": 1440,
+    "overflow": 0,
+    "errors": [],
+    "story": "5 states + reverse",
+    "crm": "forward + backward",
+    "contact": "download + Escape"
+  },
+  {
+    "width": 1024,
+    "overflow": 0,
+    "errors": [],
+    "story": "5 states + reverse",
+    "crm": "forward + backward",
+    "contact": "download + Escape"
+  },
+  {
+    "width": 768,
+    "overflow": 0,
+    "errors": [],
+    "story": "5 states + reverse",
+    "crm": "forward + backward",
+    "contact": "download + Escape"
+  },
+  {
+    "width": 390,
+    "overflow": 0,
+    "errors": [],
+    "story": "5 states + reverse",
+    "crm": "forward + backward",
+    "contact": "download + Escape"
+  },
+  {
+    "width": 1440,
+    "reducedMotion": "all story states readable, portfolio stacked",
+    "webDemo": "form verified"
+  },
+  {
+    "width": 390,
+    "reducedMotion": "all story states readable, portfolio stacked",
+    "webDemo": "form verified"
+  },
+  {
+    "prerender": "semantic content and five story states readable without JavaScript"
+  }
+]

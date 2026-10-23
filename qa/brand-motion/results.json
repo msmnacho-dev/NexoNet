@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "brandDominant": true,
+      "ecoInFirstViewport": true,
+      "ribbonRunsAutomatically": true,
+      "noPauseControls": true,
+      "scrollInk": true,
+      "liveReducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "brandDominant": true,
+      "ecoInFirstViewport": true,
+      "ribbonRunsAutomatically": true,
+      "noPauseControls": true,
+      "scrollInk": true,
+      "liveReducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "brandDominant": true,
+      "ecoInFirstViewport": true,
+      "ribbonRunsAutomatically": true,
+      "noPauseControls": true,
+      "scrollInk": true,
+      "liveReducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "brandDominant": true,
+      "ecoInFirstViewport": true,
+      "ribbonRunsAutomatically": true,
+      "noPauseControls": true,
+      "scrollInk": true,
+      "liveReducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "brandDominant": true,
+      "ecoInFirstViewport": true,
+      "ribbonRunsAutomatically": true,
+      "noPauseControls": true,
+      "scrollInk": true,
+      "liveReducedMotion": true,
+      "noClipping": true
+    }
+  ],
+  "noJavaScript": true,
+  "errors": [],
+  "consoleErrors": []
+}

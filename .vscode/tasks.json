@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "NexoNet: iniciar beta", "type": "shell", "command": "npm.cmd run dev", "isBackground": true, "problemMatcher": [] },
+    { "label": "NexoNet: compilar", "type": "shell", "command": "npm.cmd run build", "group": "build", "problemMatcher": [] },
+    { "label": "NexoNet: probar navegador", "type": "shell", "command": "npm.cmd run test:browser", "group": "test", "problemMatcher": [] }
+  ]
+}

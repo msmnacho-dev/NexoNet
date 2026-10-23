@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "viewport": "1440×900",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "viewport": "1024×768",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "viewport": "768×900",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "viewport": "390×844",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "viewport": "375×667",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "viewport": "320×568",
+      "sixStages": true,
+      "reverseCamera": true,
+      "navigation": true,
+      "localDemos": true,
+      "download": true,
+      "overflow": 0
+    },
+    {
+      "reducedMotion": true,
+      "loadedVideos": 0,
+      "readableStages": 6,
+      "livePreferenceChange": true
+    },
+    {
+      "noJavaScript": true,
+      "prerenderedStages": 6
+    },
+    {
+      "syntheticMedia": true,
+      "forwardAndReverseSeek": true,
+      "allSixSlots": true,
+      "fixture": "QA only; not deployed"
+    }
+  ],
+  "errors": []
+}

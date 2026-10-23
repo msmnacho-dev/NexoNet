@@ -1,0 +1,8 @@
+export const landingConcepts=[
+ {id:'brote',name:'Brote',category:'Jardinería',description:'Una presentación cálida y natural para un pequeño negocio de jardinería.',image:'/images/concepts/brote-landing.jpg',alt:'Diseño web de jardinería en tonos crema y verde con fotografías de jardines.'},
+ {id:'bruma',name:'Bruma',category:'Café de barrio',description:'Tipografía editorial, color tostado y una pausa como punto de partida.',image:'/images/concepts/bruma-landing.jpg',alt:'Diseño web de cafetería con tipografía grande, tonos terracota y una taza de café.'},
+ {id:'linea',name:'Línea',category:'Arquitectura',description:'Una composición sobria que deja espacio a la imagen y al proyecto.',image:'/images/concepts/linea-landing.jpg',alt:'Diseño web de arquitectura en blanco y negro con fotografía de formas arquitectónicas.'},
+ {id:'orbita',name:'Órbita',category:'Consultoría digital',description:'Formas, color y una interfaz para presentar servicios digitales.',image:'/images/concepts/orbita-landing.jpg',alt:'Diseño web de consultoría digital en violeta y crema con gráficos e interfaz.'},
+ {id:'rueda',name:'Rueda',category:'Taller de bicicletas',description:'Una identidad enérgica para presentar un taller y facilitar el primer contacto.',image:'/images/concepts/rueda-landing.jpg',alt:'Diseño web de taller de bicicletas con letras grandes, lima y una fotografía de ciclismo.'},
+ {id:'habita',name:'Habita',category:'Interiorismo',description:'Una dirección editorial para contar un espacio mediante imagen, plano y texto.',image:'/images/concepts/habita-landing.jpg',alt:'Diseño web de interiorismo en tonos cálidos con una escena geométrica de un salón.'},
+];

@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    },
+    {
+      "width": 1024,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    },
+    {
+      "width": 768,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    },
+    {
+      "width": 601,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    },
+    {
+      "width": 390,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    },
+    {
+      "width": 320,
+      "persistence": true,
+      "keyboard": true,
+      "headerOverlap": false,
+      "contrast": {
+        "title": 15.43,
+        "paragraph": 9
+      }
+    }
+  ],
+  "restrictedStorage": true,
+  "errors": []
+}

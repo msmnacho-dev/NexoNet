@@ -1,0 +1,47 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "renderer": "webgl",
+    "stages": "five stops + reverse + jump + keyboard",
+    "camera": "moves with scroll and stops at rest",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "height": 900,
+    "renderer": "webgl",
+    "stages": "five stops + reverse + jump + keyboard",
+    "camera": "moves with scroll and stops at rest",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "height": 900,
+    "renderer": "webgl",
+    "stages": "five stops + reverse + jump + keyboard",
+    "camera": "moves with scroll and stops at rest",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "renderer": "webgl",
+    "stages": "five stops + reverse + jump + keyboard",
+    "camera": "moves with scroll and stops at rest",
+    "overflow": 0,
+    "errors": []
+  },
+  {
+    "noWebGL": "CSS journey, five stops and jump navigation available"
+  },
+  {
+    "reducedMotion": "five static HTML states, no 3D module loaded"
+  },
+  {
+    "noJavaScript": "prerendered commercial page and story available"
+  }
+]

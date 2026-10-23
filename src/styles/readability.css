@@ -1,0 +1,248 @@
+/* Keep real interface copy comfortable to read; miniature site mockups stay illustrative. */
+#app :where(p,li,dd,dt):where(:not(.project-visual *):not(.project-lab *):not(.deck-art *):not(.live-surface *):not(.offer-demo *):not(.service-motion-art *)) {
+  font-size:max(16px, 1em);
+  line-height:1.65;
+}
+
+#app :where(a,button,label,input,textarea,select,summary):where(:not(.project-visual *):not(.project-lab *):not(.deck-art *):not(.live-surface *):not(.offer-demo *):not(.service-motion-art *)) {
+  font-size:max(14px, 1em);
+}
+
+#app :where(.eyebrow,.offer-index,.demo-label,.scene-index,.journey-meta,.journey-navigation a,.visual-caption,.project-meta dt,.project-meta dd,.gallery-controls>p,.projects-bottom,.fold-note,.contact-email,.footer-bottom,.landing-wall-label>span,.landing-wall-label h2,.landing-card-caption small,.offer-price>span,.offer-demo-caption,.entry-price-terms,.entry-notice,.ai-demo-context,.ai-demo-note,.ai-step,.ai-human,.offer-terms,.offer-action>p,.offer-includes li,.services-contact-note,.process-output,.brief-personal summary>span,.landing-preview-header .eyebrow,#landing-preview-note,.landing-preview-controls>[role="status"]):where(:not(.project-visual *):not(.project-lab *):not(.deck-art *):not(.live-surface *):not(.offer-demo *):not(.service-motion-art *)) {
+  font-size:max(12px, 1em);
+  line-height:1.55;
+}
+
+.journey-navigation a { min-height:48px; }
+.fold-note { flex:0 1 42%;margin-left:auto;text-align:right; }
+.landing-wall-explain>p { font-size:16px; }
+.landing-concept-picker>button { font-size:14px; }
+.landing-card-caption small { font-size:12px; }
+.landing-preview-controls>button { font-size:14px; }
+.landing-preview-controls>[role="status"] { font-size:12px; }
+
+@media(max-width:800px) {
+  .landing-wall-label { flex-direction:column;align-items:flex-start; }
+  .landing-wall-label h2,.landing-wall-label>span { font-size:12px; }
+  .landing-wall-label h2 { padding:10px 13px; }
+  .landing-wall-label>span { padding:9px 12px; }
+  .fold-note { display:block; }
+  .offer-fold>summary { flex-wrap:wrap; }
+  .offer-fold>summary>span:first-child { font-size:19px; }
+  .landing-card-caption small { font-size:12px; }
+  .deck-pager button { min-width:40px; }
+  .deck-page-number { font-size:14px; }
+  .deck-pager button:nth-child(2) .deck-page-name { display:none; }
+}
+
+@media(max-width:600px) {
+  .brand-caption>.eyebrow,.landing-wall-bottom .eyebrow,.offer-details-heading .eyebrow { font-size:12px; }
+  .brand-theatre { height:180px; }
+  .brand-theatre .brand-title { top:42%; }
+  .brand-intent>a,.entry-offer>a,.entry-notice,.offer-details-heading>p { font-size:14px; }
+  .brand-intent p { font-size:16px; }
+  .deck-controls { display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto;gap:0; }
+  .entry-proposals.service-deck,.is-service-scroll .service-deck { grid-template-rows:minmax(0,1fr) 78px; }
+  .is-service-scroll .entry-scene { grid-template-rows:145px minmax(0,1fr) 98px; }
+  #app .deck-card .deck-summary { font-size:14px;line-height:1.4; }
+  #app .deck-card .entry-price-terms { font-size:14px;line-height:1.35; }
+  .deck-pager button { min-width:38px;padding-inline:5px; }
+  .deck-page-number { font-size:14px; }
+  .deck-skip { justify-self:end;white-space:normal;min-width:0;min-height:32px; }
+  .offer-fold>summary { display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:12px; }
+  .offer-fold>summary>span:first-child { grid-column:1;grid-row:1;font-size:18px;max-width:none; }
+  .offer-fold>summary>.fold-note { grid-column:1;grid-row:2;max-width:none;font-size:14px; }
+  .offer-fold>summary>strong { grid-column:1;grid-row:2;justify-self:start;margin:0;font-size:24px; }
+  .offer-fold>summary>strong small { font-size:12px;max-width:none; }
+  .offer-fold>summary>b { grid-column:2;grid-row:1/3; }
+  .landing-wall-label { flex-direction:column;align-items:flex-start; }
+  .landing-wall-label h2,.landing-wall-label>span { font-size:12px;padding:9px 11px; }
+  .landing-wall-label>span { letter-spacing:.04em; }
+  .landing-card-caption b { font-size:16px; }
+  .landing-card-caption small { font-size:12px; }
+  .landing-preview-header .eyebrow { font-size:12px; }
+  #landing-preview-note { font-size:14px; }
+  .landing-preview-controls>button { font-size:14px; }
+}
+
+@media(max-width:600px) and (max-height:700px) {
+  .brand-theatre { height:114px; }
+  .brand-theatre .brand-title { top:42%; }
+  .is-service-scroll .entry-scene { grid-template-rows:100px minmax(0,1fr) 78px; }
+  .entry-proposals.service-deck,.is-service-scroll .service-deck { grid-template-rows:minmax(0,1fr) 44px; }
+  .deck-controls { display:flex;flex-wrap:nowrap;gap:4px; }
+  .deck-pager button { min-width:28px;padding-inline:2px; }
+  .deck-skip { font-size:14px; }
+  .deck-contact-note { display:none; }
+  .entry-offer.deck-card { padding:12px 14px 10px; }
+  #app .deck-card .deck-summary { font-size:14px;line-height:1.35; }
+}
+
+/* Give the two proposals their own clear, balanced presentation. */
+.offer-details { padding:72px 6vw 78px; }
+.offer-details-heading { grid-template-columns:minmax(0,1.15fr) minmax(300px,.85fr);column-gap:8vw;align-items:end;padding-bottom:30px;border-bottom:1px solid var(--line); }
+.offer-details-heading>h3 { max-width:620px;font-size:clamp(36px,4vw,58px);letter-spacing:-.045em;line-height:1.04;margin-top:20px; }
+.offer-details-heading>p { justify-self:end;max-width:390px;text-align:right;font-size:16px;margin:0 0 4px;color:var(--muted); }
+.landing-offers .offers-grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:28px; }
+.offer-fold { align-self:start;min-width:0;border:1px solid var(--line);border-radius:14px;padding:0 24px;background:color-mix(in srgb,var(--accent) 8%,var(--bg));transition:border-color .2s,background .2s; }
+.offer-fold:hover { border-color:color-mix(in srgb,var(--accent) 55%,var(--line)); }
+.offer-fold:last-child { border-bottom:1px solid var(--line); }
+.offer-fold>summary { display:grid;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:auto auto;align-content:center;column-gap:20px;row-gap:8px;min-height:154px;padding:24px 0; }
+.offer-fold>summary>span:first-child { grid-column:1;grid-row:1;font-size:17px;letter-spacing:0;color:var(--muted); }
+.offer-fold>summary>strong { grid-column:1;grid-row:2;justify-self:start;margin:0;font-size:36px;line-height:1.1;letter-spacing:-.04em; }
+.offer-fold>summary>strong small { display:block;font-size:13px;font-weight:450;letter-spacing:0;white-space:normal;margin:5px 0 0;color:var(--muted); }
+.offer-fold>summary>b { grid-column:2;grid-row:1;align-self:start;width:44px;height:44px;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;font-size:23px;font-weight:400; }
+.offer-fold[open]>summary>b { transform:rotate(45deg); }
+.fold-note { grid-column:1;grid-row:2;justify-self:start;align-self:start;max-width:360px;font-size:18px;text-align:left;color:var(--text); }
+.offer-fold .offer { max-width:none;padding:24px 0 12px;margin:0;border-top:1px solid var(--line);border-radius:0;background:transparent; }
+.offer-fold .offer-eco,.offer-fold .offer-ai { background:transparent; }
+
+@media(max-width:800px) {
+  .offer-details { padding:56px 6vw 64px; }
+  .offer-details-heading { grid-template-columns:1fr;gap:14px;padding-bottom:24px; }
+  .offer-details-heading>h3 { max-width:600px;font-size:clamp(34px,6vw,46px);margin-top:14px; }
+  .offer-details-heading>p { justify-self:start;text-align:left;margin:0; }
+  .landing-offers .offers-grid { grid-template-columns:1fr;gap:12px;margin-top:20px; }
+  .offer-fold>summary { min-height:128px; }
+  .fold-note { justify-self:start;text-align:left; }
+}
+
+@media(max-width:600px) {
+  .offer-details { padding:42px 6vw 50px; }
+  .offer-details-heading { gap:12px;padding-bottom:20px; }
+  .offer-details-heading>h3 { font-size:32px; }
+  .offer-details-heading>p { font-size:16px; }
+  .landing-offers .offers-grid { gap:10px;margin-top:16px; }
+  .offer-fold { padding-inline:18px;border-radius:12px; }
+  .offer-fold>summary { min-height:116px;padding:18px 0;column-gap:12px; }
+  .offer-fold>summary>span:first-child { font-size:16px; }
+  .offer-fold>summary>strong { font-size:31px; }
+  .offer-fold>summary>strong small { font-size:13px; }
+  .offer-fold>summary>b { width:40px;height:40px; }
+  .fold-note { font-size:15px;line-height:1.45; }
+  .offer-fold .offer { padding-top:20px; }
+}
+
+@media(max-width:360px) {
+  .offer-fold { padding-inline:14px; }
+  .offer-fold>summary { column-gap:8px; }
+  .offer-fold>summary>span:first-child { font-size:15px; }
+  .fold-note { font-size:14px; }
+}
+
+/* Service overview inspired by Monos's editorial service showcase. */
+.service-overview { position:relative;display:block;overflow:hidden;padding:clamp(58px,7vw,104px) 6vw clamp(62px,7vw,96px);background:#253329;color:#f6f8ef; }
+.service-overview-heading { display:grid;grid-template-columns:1fr minmax(250px,.55fr);column-gap:7vw;row-gap:22px;align-items:end;max-width:1440px;margin:0 auto 40px; }
+.service-overview-heading>.eyebrow { grid-column:1/-1;color:#c4ed76; }
+.service-overview-heading h2 { max-width:800px;font-size:clamp(38px,5.5vw,76px);line-height:1.02;letter-spacing:-.055em;font-weight:500; }
+.service-overview-heading h2 span { color:#c4ed76; }
+.service-overview-heading>p { justify-self:end;max-width:390px;color:#d5ddcc;margin:0 0 5px; }
+.service-overview-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;max-width:1440px;margin:0 auto; }
+.service-overview-card { min-width:0;border:1px solid #ffffff26;border-radius:12px;overflow:hidden;background:#ffffff08; }
+.service-overview-visual { position:relative;height:clamp(190px,23vw,340px);overflow:hidden;background:#344338; }
+.service-overview-visual>img { width:100%;height:100%;display:block;object-fit:cover;object-position:top center; }
+.service-overview-visual>span { position:absolute;left:14px;bottom:14px;max-width:calc(100% - 28px);padding:9px 11px;border:1px solid #ffffff44;border-radius:4px;background:#17221cdd;color:#f6f8ef;font-size:12px;letter-spacing:.06em;line-height:1.4; }
+.service-overview-copy { display:grid;grid-template-columns:42px 1fr;column-gap:10px;row-gap:7px;padding:23px 22px 25px; }
+.service-overview-number { grid-column:1;grid-row:1/3;color:#c4ed76;font-size:15px; }
+.service-overview-copy h3 { grid-column:2;font-size:clamp(23px,2.2vw,32px);line-height:1.1;letter-spacing:-.035em;font-weight:500; }
+.service-overview-copy p { grid-column:2;max-width:440px;color:#d5ddcc;font-size:16px;margin:0; }
+@media(max-width:800px) {
+  .service-overview-heading { grid-template-columns:1fr;gap:16px;margin-bottom:28px; }
+  .service-overview-heading>p { justify-self:start;max-width:560px; }
+  .service-overview-grid { grid-template-columns:1fr;gap:14px; }
+  .service-overview-card { display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr); }
+  .service-overview-visual { height:100%;min-height:220px; }
+  .service-overview-copy { align-content:center;padding:24px; }
+}
+@media(max-width:600px) {
+  .service-overview { padding:52px 6vw 58px; }
+  .service-overview-heading { gap:14px;margin-bottom:24px; }
+  .service-overview-heading h2 { font-size:clamp(34px,9vw,48px); }
+  .service-overview-grid { gap:12px; }
+  .service-overview-card { display:block; }
+  .service-overview-visual { height:56vw;min-height:200px;max-height:300px; }
+  .service-overview-visual>span { left:10px;bottom:10px;font-size:12px; }
+  .service-overview-copy { grid-template-columns:36px 1fr;padding:18px 17px 21px; }
+  .service-overview-copy h3 { font-size:24px; }
+  .service-overview-copy p { font-size:16px; }
+}
+
+/* Keep the numbered section labels consistent across the full landing. */
+#app .section-kicker { display:block;font-family:inherit;font-size:13px;font-weight:650;line-height:1.45;letter-spacing:.1em;text-transform:uppercase; }
+
+/* Full-width service cards enter horizontally and remain visibly stacked. */
+.service-overview { overflow-x:clip;overflow-y:visible; }
+.service-overview-heading { grid-template-columns:minmax(0,1.15fr) minmax(250px,.85fr); }
+.service-overview-heading h2 { grid-column:1; }
+.service-overview-heading>p { grid-column:2; }
+.service-overview-runway { position:relative;max-width:1440px;margin:0 auto; }
+.service-overview-grid { display:grid;grid-template-columns:1fr;gap:18px;max-width:1440px;margin:0 auto; }
+.service-overview-card { display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);min-height:clamp(420px,43vw,610px);border:1px solid #ffffff45;border-radius:16px;overflow:hidden;background:#2b3d30;box-shadow:0 22px 55px #101c1338; }
+.service-overview-visual { height:auto;min-height:0;border-right:1px solid #ffffff24;background:#344338; }
+.service-overview-visual>img { object-position:top center; }
+.service-overview-copy { align-content:center;padding:clamp(28px,5vw,72px); }
+.service-overview-number { font-size:16px; }
+.service-overview-copy h3 { font-size:clamp(30px,4vw,56px); }
+.service-overview-copy p { max-width:500px; }
+.service-overview[data-motion="stack"] .service-overview-runway { margin-inline:0; }
+.service-overview[data-motion="stack"] .service-overview-heading { position:sticky;top:var(--service-heading-top,var(--header-height));z-index:8;isolation:isolate;background:inherit; }
+.service-overview[data-motion="stack"] .service-overview-stage { position:sticky;top:var(--service-stage-top,calc(var(--header-height) + 220px));display:block;overflow:visible; }
+.service-overview[data-motion="stack"] .service-overview-card { position:absolute;inset:0;min-height:0;will-change:transform; }
+
+/* The former services panel is now the single, readable contact form. */
+.contact-form-section { display:grid;grid-template-columns:minmax(280px,.8fr) minmax(0,1.2fr);align-items:start;gap:clamp(40px,8vw,120px);min-height:0;padding:clamp(72px,9vw,128px) 6vw;overflow:visible;text-align:left; }
+.contact-form-intro { position:sticky;top:calc(var(--header-height) + 32px); }
+.contact-form-intro .section-kicker { color:#c4ed76; }
+.contact-form-intro h2 { max-width:600px;margin-top:24px;font-size:clamp(42px,5.8vw,78px);line-height:1.02;letter-spacing:-.055em; }
+.contact-form-intro>p { max-width:430px;margin-top:22px;font-size:18px;line-height:1.6; }
+.contact-form-panel { min-width:0;width:100%;max-width:760px;margin-inline:auto;padding:clamp(24px,4vw,48px);border:1px solid #ffffff30;border-radius:14px;background:#ffffff08; }
+.contact-form { display:grid;gap:22px; }
+.contact-fields-pair { display:grid;grid-template-columns:1fr 1fr;gap:18px; }
+.contact-form label { display:grid;gap:9px;color:#f6f8ef;font-size:16px;font-weight:550;line-height:1.4; }
+.contact-form input:not([type="checkbox"]),.contact-form textarea,.contact-form select { display:block;width:100%;min-height:52px;padding:13px 15px;border:1px solid #ffffff40;border-radius:6px;background:#17231b;color:#f6f8ef;font:inherit;font-size:16px; }
+.contact-form textarea { min-height:145px;resize:vertical; }
+.contact-form input::placeholder,.contact-form textarea::placeholder { color:#becbb8;opacity:1; }
+.contact-form select:invalid { color:#becbb8; }
+.contact-consents { display:grid;gap:17px;margin:0;padding:20px 0 0;border:0;border-top:1px solid #ffffff35; }
+.contact-consents legend { padding:0 0 10px;color:#c4ed76;font-size:15px;font-weight:650; }
+.contact-form .contact-check { display:grid;grid-template-columns:24px 1fr;align-items:start;gap:12px;font-size:15px;font-weight:450;line-height:1.55;cursor:pointer; }
+.contact-check input { width:22px;height:22px;margin:0;accent-color:#c4ed76; }
+.contact-check small { display:block;margin-top:3px;color:#cfdbca;font-size:14px; }
+.contact-form-note { margin:0;color:#d5ddcc;font-size:14px;line-height:1.6; }
+.contact-form .button { justify-self:start;margin:0;min-height:54px;padding:15px 22px;background:#c4ed76;color:#253329;border-color:#c4ed76;font-size:16px; }
+.contact-form .form-status { min-height:1.5em;margin:0;color:#c4ed76;font-size:15px;line-height:1.5; }
+@media(max-width:800px) {
+  .contact-form-section { grid-template-columns:1fr;gap:32px; }
+  .contact-form-intro { position:static; }
+  .contact-form-intro h2 { max-width:700px;font-size:clamp(40px,7vw,64px); }
+  .contact-form-panel { max-width:none; }
+  .service-overview-heading { grid-template-columns:1fr;gap:16px;margin-bottom:28px; }
+  .service-overview-heading h2,.service-overview-heading>p { grid-column:1; }
+  .service-overview-heading>p { justify-self:start; }
+  .service-overview-grid { gap:16px; }
+  .service-overview-card { min-height:440px; }
+  .service-overview-copy { padding:24px; }
+}
+@media(max-width:600px) {
+  .contact-form-section { gap:27px;padding:64px 6vw 72px; }
+  .contact-form-intro h2 { font-size:clamp(38px,10vw,48px); }
+  .contact-form-intro>p { font-size:17px; }
+  .contact-form-panel { padding:22px 18px; }
+  .contact-fields-pair { grid-template-columns:1fr;gap:20px; }
+  .contact-form { gap:20px; }
+  .contact-form .button { width:100%;justify-content:space-between; }
+  .service-overview { padding:52px 6vw 58px; }
+  .service-overview-heading { gap:14px;margin-bottom:24px; }
+  .service-overview-grid { gap:12px; }
+  .service-overview-card { grid-template-columns:1fr;grid-template-rows:minmax(0,45%) minmax(0,55%);min-height:510px; }
+  .service-overview-visual { height:100%;min-height:0;border-right:0;border-bottom:1px solid #ffffff24; }
+  .service-overview-visual>span { left:10px;bottom:10px;font-size:12px; }
+  .service-overview-copy { grid-template-columns:36px 1fr;align-content:center;padding:18px 17px 21px; }
+  .service-overview-copy h3 { font-size:clamp(26px,7vw,34px); }
+  .service-overview-copy p { font-size:16px;line-height:1.5; }
+  .service-overview[data-motion="stack"] .service-overview-card { min-height:0; }
+}
+
+/* Give the moving NexoNet mark breathing room on narrow screens. */
+@media(max-width:600px){.is-service-scroll .entry-scene{grid-template-rows:180px minmax(0,1fr) 78px}.is-service-scroll .entry-scene .brand-theatre{height:180px}.is-service-scroll .entry-scene .brand-object{top:calc(50% - var(--object-size)/2)}}
+@media(max-width:600px) and (max-height:740px){.is-service-scroll .entry-scene{grid-template-rows:132px minmax(0,1fr) 68px}.is-service-scroll .entry-scene .brand-theatre{height:132px}.is-service-scroll .entry-scene .brand-object{--object-size:94px;top:calc(50% - var(--object-size)/2)}}

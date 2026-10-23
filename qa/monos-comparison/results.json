@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "proofLinks": true,
+      "contextualServiceCtas": true,
+      "downloadWithoutPersonalData": true,
+      "processOutputs": 4,
+      "noClipping": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "proofLinks": true,
+      "contextualServiceCtas": true,
+      "downloadWithoutPersonalData": true,
+      "processOutputs": 4,
+      "noClipping": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "proofLinks": true,
+      "contextualServiceCtas": true,
+      "downloadWithoutPersonalData": true,
+      "processOutputs": 4,
+      "noClipping": true
+    }
+  ],
+  "errors": [],
+  "consoleErrors": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "width": 1440,
+    "palette": {
+      "bg": "rgb(245, 246, 240)",
+      "text": "rgb(36, 49, 37)",
+      "secondary": "rgb(92, 103, 84)",
+      "accent": "rgb(65, 101, 27)",
+      "button": "rgb(196, 237, 118)",
+      "buttonText": "rgb(36, 49, 37)"
+    },
+    "contrast": {
+      "text": 12.54,
+      "secondary": 5.48,
+      "accent": 6.23,
+      "button": 10.2
+    },
+    "logo": "new vector mark in header and footer",
+    "surfaces": "five states, no clipped HTML",
+    "overflow": 0
+  },
+  {
+    "width": 1024,
+    "palette": {
+      "bg": "rgb(245, 246, 240)",
+      "text": "rgb(36, 49, 37)",
+      "secondary": "rgb(92, 103, 84)",
+      "accent": "rgb(65, 101, 27)",
+      "button": "rgb(196, 237, 118)",
+      "buttonText": "rgb(36, 49, 37)"
+    },
+    "contrast": {
+      "text": 12.54,
+      "secondary": 5.48,
+      "accent": 6.23,
+      "button": 10.2
+    },
+    "logo": "new vector mark in header and footer",
+    "surfaces": "five states, no clipped HTML",
+    "overflow": 0
+  },
+  {
+    "width": 768,
+    "palette": {
+      "bg": "rgb(245, 246, 240)",
+      "text": "rgb(36, 49, 37)",
+      "secondary": "rgb(92, 103, 84)",
+      "accent": "rgb(65, 101, 27)",
+      "button": "rgb(196, 237, 118)",
+      "buttonText": "rgb(36, 49, 37)"
+    },
+    "contrast": {
+      "text": 12.54,
+      "secondary": 5.48,
+      "accent": 6.23,
+      "button": 10.2
+    },
+    "logo": "new vector mark in header and footer",
+    "surfaces": "five states, no clipped HTML",
+    "overflow": 0
+  },
+  {
+    "width": 390,
+    "palette": {
+      "bg": "rgb(245, 246, 240)",
+      "text": "rgb(36, 49, 37)",
+      "secondary": "rgb(92, 103, 84)",
+      "accent": "rgb(65, 101, 27)",
+      "button": "rgb(196, 237, 118)",
+      "buttonText": "rgb(36, 49, 37)"
+    },
+    "contrast": {
+      "text": 12.54,
+      "secondary": 5.48,
+      "accent": 6.23,
+      "button": 10.2
+    },
+    "logo": "new vector mark in header and footer",
+    "surfaces": "five states, no clipped HTML",
+    "overflow": 0
+  }
+]

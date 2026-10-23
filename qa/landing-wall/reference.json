@@ -1,0 +1,1583 @@
+[
+  {
+    "width": 1440,
+    "structure": {
+      "headings": [
+        {
+          "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíb",
+          "top": 183
+        },
+        {
+          "text": "monos",
+          "top": 243.390625
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 758.921875
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 758.921875
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 758.921875
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 758.921875
+        },
+        {
+          "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el ",
+          "top": 1948.515625
+        },
+        {
+          "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+          "top": 2571.078125
+        },
+        {
+          "text": "Diseño encantador",
+          "top": 2677.625
+        },
+        {
+          "text": "Trabajo colaborativo",
+          "top": 3481.171875
+        },
+        {
+          "text": "Lealtad a tus usuarios",
+          "top": 4271.015625
+        },
+        {
+          "text": "Rendimiento superior",
+          "top": 5076.859375
+        },
+        {
+          "text": "Diseño de Marca",
+          "top": 5884.359375
+        },
+        {
+          "text": "Diseño Web",
+          "top": 6063.859375
+        },
+        {
+          "text": "Desarrollo",
+          "top": 6243.859375
+        },
+        {
+          "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+          "top": 6442.359375
+        },
+        {
+          "text": "Creamos diseños que cautivan",
+          "top": 6961.28125
+        },
+        {
+          "text": "Rilastil",
+          "top": 7652.671875
+        },
+        {
+          "text": "Ador Barcelona",
+          "top": 7652.671875
+        },
+        {
+          "text": "Happylandia",
+          "top": 7652.671875
+        }
+      ],
+      "images": [
+        {
+          "alt": "Monos, agencia de diseño y desarrollo de páginas web",
+          "src": "https://monos.pro/wp-content/uploads/2023/11/logo-monos.new-1.png",
+          "width": 212.796875,
+          "height": 43.546875,
+          "top": 28.21875,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9ffc3d elementor-widget elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Mascota de Monos, agencia de diseño y desarrollo web",
+          "src": "https://monos.pro/wp-content/uploads/2024/01/monos-pro-1024x644.png",
+          "width": 648,
+          "height": 407.53125,
+          "top": 354.5048828125,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container elementor-motion-effects-element",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-d36a070 elementor-widget elementor-widget-image elementor-motion-effects-parent",
+              "settings": "{\"motion_fx_mouseTrack_effect\":\"yes\",\"motion_fx_mouseTrack_speed\":{\"unit\":\"px\",\"size\":0.1000000000000000055511151231257827021181583404541015625,\"sizes\":[]},\"motion_fx_motion_fx_mouse\":\"yes\"}"
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e3545a5 e-con-full e-flex e-con e-parent e-lazyloaded",
+              "settings": "{\"background_background\":\"classic\"}"
+            }
+          ]
+        },
+        {
+          "alt": "",
+          "src": "https://monos.pro/wp-content/uploads/2024/01/eyes.png",
+          "width": 186.609375,
+          "height": 96.515625,
+          "top": 484.35345458984375,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container elementor-motion-effects-element",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-f478643 elementor-widget elementor-widget-image elementor-motion-effects-parent",
+              "settings": "{\"motion_fx_motion_fx_mouse\":\"yes\",\"motion_fx_mouseTrack_effect\":\"yes\",\"motion_fx_mouseTrack_speed\":{\"unit\":\"px\",\"size\":0.200000000000000011102230246251565404236316680908203125,\"sizes\":[]}}"
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e3545a5 e-con-full e-flex e-con e-parent e-lazyloaded",
+              "settings": "{\"background_background\":\"classic\"}"
+            }
+          ]
+        },
+        {
+          "alt": "You walk the walk of fame",
+          "src": "https://monos.pro/wp-content/uploads/2024/01/you-walk-th-walk-of-fame.png",
+          "width": 360,
+          "height": 337.515625,
+          "top": 2836.015625,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-c012923 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-sticky",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_parent\":\"yes\",\"_transform_translateX_effect\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"_transform_translateX_effect_tablet\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"_transform_translateX_effect_mobile\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0,\"_transform_translateY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_translateY_effect_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_translateY_effect_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"
+            }
+          ]
+        },
+        {
+          "alt": "Team work, not team jerk",
+          "src": "",
+          "width": 316.796875,
+          "height": 307.328125,
+          "top": 3624.5625,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-2de4921 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-7ea6ec7 e-con-full e-flex e-con e-child elementor-sticky",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_offset\":30,\"sticky_parent\":\"yes\",\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"
+            }
+          ]
+        },
+        {
+          "alt": "We put the users first",
+          "src": "",
+          "width": 302.390625,
+          "height": 285.96875,
+          "top": 4432.40625,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a7687c5 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "e-con-inner",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "You need love from Google",
+          "src": "",
+          "width": 288,
+          "height": 279.390625,
+          "top": 5238.25,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-11dc72e elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "e-con-inner",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 744",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-744-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 265",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-265-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 271",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-271-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 273",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-273-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate swiper-slide-prev",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 290",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-290-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate swiper-slide-active",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 749",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-749-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-next",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 745",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-745-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 748",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-748-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 744",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-744-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 265",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-265-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 271",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-271-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 273",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-273-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate-prev",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 290",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-290-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate-active",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 749",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-749-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 745",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-745-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 748",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-748-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Group 744",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/Group-744-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "image 265",
+          "src": "https://monos.pro/wp-content/uploads/2026/08/image-265-1.png",
+          "width": 191.171875,
+          "height": 105.53125,
+          "top": 6680.359375,
+          "ancestors": [
+            {
+              "tag": "FIGURE",
+              "class": "swiper-slide-inner",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "swiper-slide swiper-slide-duplicate",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-image-carousel swiper-wrapper",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Página web de Rilastil desarrollada por Monos",
+          "src": "",
+          "width": 409.0625,
+          "height": 235.71875,
+          "top": 7280.796875,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a8a7746 elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "A",
+              "class": "elementor-element elementor-element-97e5059 e-con-full e-flex e-con e-child",
+              "settings": "{\"background_background\":\"video\",\"motion_fx_motion_fx_scrolling\":\"yes\",\"background_video_link\":\"https:\\/\\/monos.pro\\/wp-content\\/uploads\\/2026\\/08\\/aqua2.mp4\",\"background_video_start\":0,\"background_video_end\":16,\"background_play_on_mobile\":\"yes\",\"motion_fx_devices\":[\"desktop\",\"tablet\",\"mobile\"]}"
+            }
+          ]
+        },
+        {
+          "alt": "Portero automático de latón con cuatro pulsadores, uno coral, sobre un pedestal bajo",
+          "src": "https://monos.pro/wp-content/uploads/2026/10/art_36_web-empresa_h1050-1024x448.webp",
+          "width": 412,
+          "height": 180.25,
+          "top": 13313.640625,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Timón de barco de latón sobre un pedestal bajo, entre formas de arcilla",
+          "src": "https://monos.pro/wp-content/uploads/2026/10/art_35_agencia-seo_h1050-1024x448.webp",
+          "width": 412,
+          "height": 180.25,
+          "top": 13313.640625,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Bote de latón con una etiqueta crema despegada que deja ver otra verde debajo",
+          "src": "https://monos.pro/wp-content/uploads/2026/10/art_34_rebranding-nombre_h1050-1024x448.webp",
+          "width": 412,
+          "height": 180.25,
+          "top": 13313.640625,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Diseño de interfaz UI",
+          "src": "https://monos.pro/wp-content/uploads/2024/03/ui-design.png",
+          "width": 194,
+          "height": 80.4375,
+          "top": 14368.140625,
+          "ancestors": [
+            {
+              "tag": "SPAN",
+              "class": "elementor-headline-plain-text elementor-headline-text-wrapper",
+              "settings": null
+            },
+            {
+              "tag": "H3",
+              "class": "elementor-headline",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Monos",
+          "src": "https://monos.pro/wp-content/uploads/2024/03/monospro.svg",
+          "width": 1296,
+          "height": 246.109375,
+          "top": 15712.71875,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-b3ef6e4 elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a960865 e-con-full e-flex e-con e-child",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"bottom\",\"sticky_parent\":\"yes\",\"sticky_on\":[],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "width": 1440,
+    "scrollY": 0,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -181.96)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-7533f19 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 227.45)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -181.96)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollY": 450,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -85.4238)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -85.4238)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-7533f19 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 106.78)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2708c68 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 106.78)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -85.4238)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -85.4238)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollY": 900,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 11.8585)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 11.8585)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-7533f19 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -14.8231)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2708c68 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -14.8231)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-92c51b9 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -14.8231)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 11.8585)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 11.8585)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollY": 1350,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ad35980 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 109.115)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 109.115)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2708c68 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -136.394)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-92c51b9 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -136.394)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-4ed8139 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 109.115)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 109.115)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollY": 1800,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-d235dec e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 197.928)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-92c51b9 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -247.41)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-2906742 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 197.928)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-st",
+        "transform": "matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0, 0, 0, 1)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollY": 2300,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-st",
+        "transform": "matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0, 0, 0, 1)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "structure": {
+      "headings": [
+        {
+          "text": "Una marca \n\t\t\t\t\n\t\t\t\t\tincreíble\n\t\t\t\t\n\t\t\t\t\tnecesita una web increíb",
+          "top": 156.5
+        },
+        {
+          "text": "monos",
+          "top": 254.890625
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 549.65625
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 549.65625
+        },
+        {
+          "text": "Tu página web puede verse más guay que nunca",
+          "top": 549.65625
+        },
+        {
+          "text": "Diseñamos y desarrollamos \n\t\t\t\t\n\t\t\t\t\tPáginas web centrados en el ",
+          "top": 1166.734375
+        },
+        {
+          "text": "Enamora a tus\n\t\t\t\t\n\t\t\t\t\tclientes\n\t\t\t\t\n\t\t\t\t\tdesde el primer click",
+          "top": 1860.25
+        },
+        {
+          "text": "Diseño encantador",
+          "top": 2473.015625
+        },
+        {
+          "text": "Trabajo colaborativo",
+          "top": 3030.078125
+        },
+        {
+          "text": "Lealtad a tus usuarios",
+          "top": 3621.46875
+        },
+        {
+          "text": "Rendimiento superior",
+          "top": 4168.109375
+        },
+        {
+          "text": "Diseño de Marca",
+          "top": 4809.265625
+        },
+        {
+          "text": "Diseño Web",
+          "top": 5041.71875
+        },
+        {
+          "text": "Desarrollo",
+          "top": 5273.9375
+        },
+        {
+          "text": "Acompañamos a nuestros clientes a hacer realidad sus proyectos",
+          "top": 5523.96875
+        },
+        {
+          "text": "Creamos diseños que cautivan",
+          "top": 5911.875
+        },
+        {
+          "text": "Rilastil",
+          "top": 6316.09375
+        },
+        {
+          "text": "Ador Barcelona",
+          "top": 6632.546875
+        },
+        {
+          "text": "Happylandia",
+          "top": 6950.09375
+        },
+        {
+          "text": "Simon Rack",
+          "top": 7269.59375
+        }
+      ],
+      "images": [
+        {
+          "alt": "Monos, agencia de diseño y desarrollo de páginas web",
+          "src": "https://monos.pro/wp-content/uploads/2023/11/logo-monos.new-1-768x157.png",
+          "width": 155.5,
+          "height": 31.78125,
+          "top": 34.109375,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9ffc3d elementor-widget elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Mascota de Monos, agencia de diseño y desarrollo web",
+          "src": "https://monos.pro/wp-content/uploads/2024/01/monos-pro-768x483.png",
+          "width": 390,
+          "height": 245.26559448242188,
+          "top": 307.8865661621094,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container elementor-motion-effects-element",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-d36a070 elementor-widget elementor-widget-image elementor-motion-effects-parent",
+              "settings": "{\"motion_fx_mouseTrack_effect\":\"yes\",\"motion_fx_mouseTrack_speed\":{\"unit\":\"px\",\"size\":0.1000000000000000055511151231257827021181583404541015625,\"sizes\":[]},\"motion_fx_motion_fx_mouse\":\"yes\"}"
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e3545a5 e-con-full e-flex e-con e-parent e-lazyloaded",
+              "settings": "{\"background_background\":\"classic\"}"
+            }
+          ]
+        },
+        {
+          "alt": "You walk the walk of fame",
+          "src": "",
+          "width": 279.578125,
+          "height": 262.125,
+          "top": 2624.203125,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-c012923 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-sticky",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_parent\":\"yes\",\"_transform_translateX_effect\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"_transform_translateX_effect_tablet\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"_transform_translateX_effect_mobile\":{\"unit\":\"%\",\"size\":\"\",\"sizes\":[]},\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0,\"_transform_translateY_effect\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_translateY_effect_tablet\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"_transform_translateY_effect_mobile\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]}}"
+            }
+          ]
+        },
+        {
+          "alt": "Team work, not team jerk",
+          "src": "",
+          "width": 287.75,
+          "height": 279.15625,
+          "top": 3162.609375,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-2de4921 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-7ea6ec7 e-con-full e-flex e-con e-child elementor-sticky",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"top\",\"sticky_offset\":30,\"sticky_parent\":\"yes\",\"sticky_on\":[\"desktop\",\"tablet\",\"mobile\"],\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"
+            }
+          ]
+        },
+        {
+          "alt": "We put the users first",
+          "src": "",
+          "width": 248.5,
+          "height": 235,
+          "top": 3758.953125,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a7687c5 elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "e-con-inner",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "You need love from Google",
+          "src": "",
+          "width": 258.96875,
+          "height": 251.234375,
+          "top": 4363.1875,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-11dc72e elementor-widget__width-initial elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "e-con-inner",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Página web de Rilastil desarrollada por Monos",
+          "src": "",
+          "width": 287.96875,
+          "height": 165.9375,
+          "top": 6115.8125,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a8a7746 elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "A",
+              "class": "elementor-element elementor-element-97e5059 e-con-full e-flex e-con e-child",
+              "settings": "{\"background_background\":\"video\",\"motion_fx_motion_fx_scrolling\":\"yes\",\"background_video_link\":\"https:\\/\\/monos.pro\\/wp-content\\/uploads\\/2026\\/08\\/aqua2.mp4\",\"background_video_start\":0,\"background_video_end\":16,\"background_play_on_mobile\":\"yes\",\"motion_fx_devices\":[\"desktop\",\"tablet\",\"mobile\"]}"
+            }
+          ]
+        },
+        {
+          "alt": "Portero automático de latón con cuatro pulsadores, uno coral, sobre un pedestal bajo",
+          "src": "",
+          "width": 351,
+          "height": 153.5625,
+          "top": 10503.359375,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Timón de barco de latón sobre un pedestal bajo, entre formas de arcilla",
+          "src": "",
+          "width": 351,
+          "height": 153.5625,
+          "top": 10828.515625,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Bote de latón con una etiqueta crema despegada que deja ver otra verde debajo",
+          "src": "",
+          "width": 351,
+          "height": 153.5625,
+          "top": 11153.671875,
+          "ancestors": [
+            {
+              "tag": "A",
+              "class": "",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-e9f6872 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Diseño de interfaz UI",
+          "src": "https://monos.pro/wp-content/uploads/2024/03/ui-design.png",
+          "width": 194,
+          "height": 80.4375,
+          "top": 11865.3125,
+          "ancestors": [
+            {
+              "tag": "SPAN",
+              "class": "elementor-headline-plain-text elementor-headline-text-wrapper",
+              "settings": null
+            },
+            {
+              "tag": "H3",
+              "class": "elementor-headline",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            }
+          ]
+        },
+        {
+          "alt": "Monos",
+          "src": "https://monos.pro/wp-content/uploads/2024/03/monospro.svg",
+          "width": 366.875,
+          "height": 69.65625,
+          "top": 13067.53125,
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "class": "elementor-widget-container",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-b3ef6e4 elementor-widget elementor-widget-image",
+              "settings": null
+            },
+            {
+              "tag": "DIV",
+              "class": "elementor-element elementor-element-a960865 e-con-full e-flex e-con e-child",
+              "settings": "{\"background_background\":\"classic\",\"sticky\":\"bottom\",\"sticky_parent\":\"yes\",\"sticky_on\":[],\"sticky_offset\":0,\"sticky_effects_offset\":0,\"sticky_anchor_link_offset\":0}"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "scrollY": 0,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-a95ee31 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -128)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-0de12fd e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -128)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-1d1d121 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 47.61)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-cefb63e e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 47.61)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-7895000 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -128)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-bdef7ea e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -128)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "scrollY": 450,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-a95ee31 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-0de12fd e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-64fd38e e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-1d1d121 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.510963)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-cefb63e e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.510963)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-623fe07 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.510963)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-7895000 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-bdef7ea e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-dab8eda e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -1.50102)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "scrollY": 900,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-0de12fd e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 125.899)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-64fd38e e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 125.899)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-cefb63e e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -48.9617)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-623fe07 e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, -48.9617)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-bdef7ea e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 125.899)",
+        "position": "relative",
+        "text": ""
+      },
+      {
+        "class": "elementor-element elementor-element-dab8eda e-flex e-con-boxed e-con e-child elementor-motion-effect",
+        "transform": "matrix(1, 0, 0, 1, 0, 125.899)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "scrollY": 1350,
+    "transforms": []
+  },
+  {
+    "width": 390,
+    "scrollY": 1800,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-st",
+        "transform": "matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0, 0, 0, 1)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "scrollY": 2300,
+    "transforms": [
+      {
+        "class": "elementor-element elementor-element-ede8f43 e-transform e-con-full e-flex e-con e-child elementor-st",
+        "transform": "matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -1, 0, 0, 0, 1)",
+        "position": "relative",
+        "text": ""
+      }
+    ]
+  }
+]

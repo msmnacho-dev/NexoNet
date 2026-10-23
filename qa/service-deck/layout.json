@@ -1,0 +1,214 @@
+[
+  {
+    "width": 320,
+    "height": 568,
+    "boxes": {
+      ".deck-copy": {
+        "y": 166,
+        "bottom": 363.296875,
+        "height": 197.296875,
+        "display": "flex",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art-wrap": {
+        "y": 371.296875,
+        "bottom": 431,
+        "height": 59.703125,
+        "display": "flex",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art": {
+        "y": 371.296875,
+        "bottom": 418.5,
+        "height": 47.203125,
+        "display": "grid",
+        "minHeight": "0px",
+        "flex": "1 1 0%",
+        "padding": "2px"
+      },
+      ".deck-art-label": {
+        "y": 423.5,
+        "bottom": 431,
+        "height": 7.5,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-compact": {
+        "y": 372.296875,
+        "bottom": 417.5,
+        "height": 45.203125,
+        "display": "grid",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-query": {
+        "y": 0,
+        "bottom": 0,
+        "height": 0,
+        "display": "none",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "7px"
+      },
+      ".deck-ai-draft": {
+        "y": 0,
+        "bottom": 0,
+        "height": 0,
+        "display": "none",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "7px"
+      }
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "boxes": {
+      ".deck-copy": {
+        "y": 246,
+        "bottom": 466.546875,
+        "height": 220.546875,
+        "display": "flex",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art-wrap": {
+        "y": 480.546875,
+        "bottom": 691,
+        "height": 210.453125,
+        "display": "flex",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art": {
+        "y": 480.546875,
+        "bottom": 677.75,
+        "height": 197.203125,
+        "display": "grid",
+        "minHeight": "0px",
+        "flex": "1 1 0%",
+        "padding": "2px"
+      },
+      ".deck-art-label": {
+        "y": 682.75,
+        "bottom": 691,
+        "height": 8.25,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-compact": {
+        "y": 0,
+        "bottom": 0,
+        "height": 0,
+        "display": "none",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-query": {
+        "y": 478.77386474609375,
+        "bottom": 578.9136352539062,
+        "height": 100.1397705078125,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "10px"
+      },
+      ".deck-ai-draft": {
+        "y": 512.23095703125,
+        "bottom": 646.05029296875,
+        "height": 133.8193359375,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "10px"
+      }
+    }
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "boxes": {
+      ".deck-copy": {
+        "y": 390,
+        "bottom": 715.65625,
+        "height": 325.65625,
+        "display": "flex",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art-wrap": {
+        "y": 390,
+        "bottom": 715.65625,
+        "height": 325.65625,
+        "display": "flex",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-art": {
+        "y": 390,
+        "bottom": 697.15625,
+        "height": 307.15625,
+        "display": "flex",
+        "minHeight": "0px",
+        "flex": "1 1 0%",
+        "padding": "10px 12px"
+      },
+      ".deck-art-label": {
+        "y": 705.15625,
+        "bottom": 715.65625,
+        "height": 10.5,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-compact": {
+        "y": 0,
+        "bottom": 0,
+        "height": 0,
+        "display": "none",
+        "minHeight": "0px",
+        "flex": "0 1 auto",
+        "padding": "0px"
+      },
+      ".deck-ai-query": {
+        "y": 397.06597900390625,
+        "bottom": 522.9027709960938,
+        "height": 125.8367919921875,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "12px 17px"
+      },
+      ".deck-ai-draft": {
+        "y": 568.4807739257812,
+        "bottom": 687.0036010742188,
+        "height": 118.5228271484375,
+        "display": "block",
+        "minHeight": "auto",
+        "flex": "0 1 auto",
+        "padding": "12px 17px"
+      }
+    }
+  },
+  {
+    "liveResize": true,
+    "mobileAndShortWindowFallback": true,
+    "sixUniquePanels": true
+  }
+]

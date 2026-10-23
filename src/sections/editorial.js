@@ -1,0 +1,18 @@
+import { logoMark } from '../components/logo.js';
+export function manifesto() {
+  const pillars=[
+    {number:'01',title:'Diseño de marca',text:'Una identidad visual clara para que tu negocio se presente con coherencia en su web y sus materiales digitales.',image:'/images/concepts/linea-landing.jpg',alt:'Diseño de marca para un estudio de arquitectura.',tag:'IDENTIDAD DE MARCA'},
+    {number:'02',title:'Diseño web',text:'Páginas atractivas y funcionales que explican lo esencial de tu negocio y facilitan el contacto desde cualquier pantalla.',image:'/images/concepts/brote-landing.jpg',alt:'Diseño web para un negocio de jardinería.',tag:'DISEÑO WEB'},
+    {number:'03',title:'Desarrollo',text:'Webs, aplicaciones e integraciones pensadas para conectar herramientas y ordenar tareas del día a día.',image:'/images/concepts/orbita-landing.jpg',alt:'Diseño web para una consultoría digital.',tag:'DESARROLLO WEB'},
+  ];
+  return `<section id="manifiesto" class="manifesto service-overview" aria-labelledby="manifesto-title"><div class="service-overview-heading"><h2 id="manifesto-title">Diseño. Web.<br><span>Desarrollo.</span></h2><p>Diseño, web y tecnología conectados con lo que tu negocio necesita resolver.</p></div><div class="service-overview-runway"><div class="service-overview-grid service-overview-stage" data-service-stack>${pillars.map(item=>`<article class="service-overview-card"><div class="service-overview-visual"><img src="${item.image}" alt="${item.alt}" loading="lazy"><span>${item.number} / ${item.tag}</span></div><div class="service-overview-copy"><span class="service-overview-number">${item.number}</span><h3>${item.title}</h3><p>${item.text}</p></div></article>`).join('')}</div></div></section>`;
+}
+export function philosophy() {
+  const steps=[
+    {title:'Entender tu necesidad',action:'Nos cuentas qué quieres presentar, mejorar o conectar.',result:'Un objetivo concreto para el proyecto.'},
+    {title:'Acordar lo que incluye',action:'Revisamos alcance, entregables y condiciones antes de empezar.',result:'Una propuesta que puedas valorar.'},
+    {title:'Diseñar y construir',action:'Damos forma al contenido, la interfaz y las funciones acordadas.',result:'Una solución que puedes revisar.'},
+    {title:'Revisar y continuar',action:'Comprobamos la entrega y valoramos las siguientes mejoras.',result:'Siguientes pasos según el alcance acordado.'},
+  ];
+  return `<section id="proceso" class="philosophy section-pad"><div class="philosophy-art" aria-hidden="true">${logoMark()}<span>UNA VISIÓN COMPARTIDA.</span></div><div class="philosophy-copy"><span class="eyebrow section-kicker">NUESTRA FORMA DE TRABAJAR</span><h2>Un proceso claro.<br>Un siguiente paso concreto.</h2><p>Antes de hablar de herramientas, entendemos el trabajo que necesitas resolver. Así puedes valorar cada paso y lo que vas a recibir.</p><ol class="process-steps">${steps.map((step,i)=>`<li><span class="process-number">0${i+1}</span><div><h3>${step.title}</h3><p>${step.action}</p><span class="process-output">Qué obtienes <span aria-hidden="true">↗</span> ${step.result}</span></div></li>`).join('')}</ol></div></section>`;
+}

@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "checksInSequence": true,
+      "reversible": true,
+      "stationaryAtRest": true,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "checksInSequence": true,
+      "reversible": true,
+      "stationaryAtRest": true,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "checksInSequence": true,
+      "reversible": true,
+      "stationaryAtRest": true,
+      "noOverflow": true
+    }
+  ],
+  "reducedMotion": true,
+  "errors": []
+}

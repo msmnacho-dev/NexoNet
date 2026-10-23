@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "height": 568,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "sixPanels": true,
+      "forwardAndReverse": true,
+      "ribbonAtViewportBottom": true,
+      "keyboardNavigation": true,
+      "serviceSpecificCtas": true,
+      "reducedMotion": true,
+      "noClipping": true
+    }
+  ],
+  "shortWindowsAndNoJavaScript": true,
+  "errors": [],
+  "consoleErrors": [],
+  "submissions": []
+}

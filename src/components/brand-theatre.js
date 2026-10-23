@@ -1,0 +1,23 @@
+import {entryServices} from '../data/entry-services.js';
+import {serviceMark} from './service-deck.js';
+// The existing modular N, given depth with its own local vector geometry.
+const first='M5 41V10a6 6 0 0 1 10.8-3.6L34 30.7V41h-7L14 24v17Z';
+const second='M34 7h9v31a6 6 0 0 1-10.8 3.6L22 28.4l7.2-5.4 4.8 6.2Z';
+export function brandSculpture(){
+  return `<svg class="brand-sculpture" viewBox="-5 -5 75 75" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="brand-forest" x2="1" y2="1"><stop stop-color="#456b31"/><stop offset=".5" stop-color="#213b29"/><stop offset="1" stop-color="#52763b"/></linearGradient><linearGradient id="brand-lime" x2=".7" y2="1"><stop stop-color="#edffc8"/><stop offset=".5" stop-color="#c4ed76"/><stop offset="1" stop-color="#87b342"/></linearGradient><filter id="brand-depth" x="-50%" y="-50%" width="200%" height="220%"><feDropShadow dx="3" dy="6" stdDeviation="3" flood-color="#1b3521" flood-opacity=".2"/></filter></defs><ellipse cx="36" cy="61" rx="24" ry="5" fill="#254025" opacity=".13"/><g filter="url(#brand-depth)"><g data-brand-piece>${Array.from({length:40},(_,i)=>(40-i)*.2).map(n=>`<g transform="translate(${n} ${n*.7})"><path d="${first}" fill="#1f3526"/><path d="${second}" fill="#70953d"/></g>`).join('')}<path d="${first}" fill="url(#brand-forest)" stroke="#547c40" stroke-width=".4"/></g><g data-brand-piece><path d="${second}" fill="url(#brand-lime)" stroke="#e5ffb7" stroke-width=".5"/><path d="M35 9h6v25" fill="none" stroke="#f5ffe6" stroke-opacity=".65" stroke-width=".8" stroke-linecap="round"/></g></g></svg>`;
+}
+export function brandTheatre(){
+ return `<div class="entry-intro brand-theatre" data-brand-theatre>
+   <div class="brand-caption"><span class="eyebrow">ESTUDIO DIGITAL / WEB + IA</span><span>CONEXIONES CON PROPÓSITO.</span></div>
+   <h1 id="entry-title" class="brand-title" aria-label="NexoNet, diseño web e IA aplicada para pequeños negocios"><span class="brand-word" data-brand-word>Nexo</span><span class="brand-word brand-word-outline" data-brand-word>Net</span></h1>
+   <div class="brand-object" data-brand-object aria-hidden="true"><div class="brand-object-tilt" data-brand-tilt>${brandSculpture()}</div></div>
+   <div class="brand-intent"><p>Tu primera web.<br><span>Tu siguiente paso.</span></p><a href="#propuestas">Ver propuestas <span aria-hidden="true">↓</span></a></div>
+ </div>`;
+}
+export function brandRibbon(){
+ return `<div class="brand-ribbon" id="brand-ribbon" aria-label="Servicios NexoNet: ${entryServices.map(s=>s.name).join(', ')}"><div class="brand-ribbon-window"><div class="brand-ribbon-track" data-brand-ribbon aria-hidden="true">${[0,1].map(()=>`<div class="brand-ribbon-group">${entryServices.map(s=>`<span class="ribbon-service"><span class="ribbon-service-mark ribbon-mark-${s.id}">${serviceMark(s.id)}</span><strong>${s.ribbon}</strong></span>`).join('')}</div>`).join('')}</div></div></div>`;
+}
+export function serviceMotionArt(index){
+ const image=index===0?`<svg viewBox="0 0 160 110"><rect x="1" y="1" width="158" height="108" rx="8" fill="#f4f8eb" stroke="#b5ca9b"/><path d="M15 23h130" stroke="#c3d3b2"/><circle cx="17" cy="13" r="2" fill="#7e9e5a"/><path d="M35 60H125" stroke="#6b8b47" stroke-width="2"/><rect x="14" y="43" width="35" height="35" rx="6" fill="#c4ed76"/><rect x="63" y="43" width="35" height="35" rx="6" fill="#e0ebd0" stroke="#99b477"/><rect x="111" y="43" width="35" height="35" rx="6" fill="#c4ed76"/><path d="m26 60 4 4 8-9m36 5 4 4 8-9m37 5 4 4 8-9" fill="none" stroke="#42632c" stroke-width="2"/><path d="M14 92h72" stroke="#adc592" stroke-width="4"/></svg>`:`<svg viewBox="0 0 160 110"><rect x="1" y="1" width="158" height="108" rx="8" fill="#f4f8eb" stroke="#b5ca9b"/><path d="M20 15v80m40-80v80m40-80v80m40-80v80M15 25h130M15 55h130M15 85h130" stroke="#d4e0c7"/><g transform="translate(48 14) scale(1.5)"><path d="${first}" fill="#253329"/><path d="${second}" fill="#b1dc6c"/></g><rect x="15" y="91" width="25" height="8" fill="#253329"/><rect x="42" y="91" width="25" height="8" fill="#87b342"/><rect x="69" y="91" width="25" height="8" fill="#c4ed76"/></svg>`;
+ return `<div class="service-motion-art" aria-hidden="true">${image}<span>${index===0?'CONEXIÓN DE HERRAMIENTAS':'ESTUDIO DE IDENTIDAD'}</span></div>`;
+}

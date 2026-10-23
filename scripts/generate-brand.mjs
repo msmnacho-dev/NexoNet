@@ -1,0 +1,11 @@
+import {writeFile} from 'node:fs/promises';
+import {logoMark} from '../src/components/logo.js';
+const paths=logoMark().match(/<path.*<\/svg>/s)[0].replace('</svg>','');
+const color=paths.replace('class="logo-primary"','fill="#253329"').replace('class="logo-secondary"','fill="#8db451"');
+const svg=(box,content)=>`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}">${content}</svg>`;
+await writeFile('public/logo-symbol.svg',svg('0 0 48 48',color));
+await writeFile('public/logo-monochrome.svg',svg('0 0 48 48',paths.replaceAll(/class="logo-[a-z]+"/g,'fill="currentColor"')));
+await writeFile('public/logo-wordmark.svg',svg('0 0 235 48',`${color}<text x="58" y="36" font-family="Arial,sans-serif" font-size="34" letter-spacing="-1.8" fill="#253329">NexoNet</text>`));
+await writeFile('public/favicon.svg',svg('0 0 64 64',`<rect width="64" height="64" rx="14" fill="#f6f7f1"/><g transform="translate(8 8)">${color}</g>`));
+await writeFile('public/og-nexonet.svg',svg('0 0 1200 630',`<rect width="1200" height="630" fill="#f6f7f1"/><circle cx="1110" cy="590" r="360" fill="#e4edda"/><g transform="translate(80 70) scale(1.3)">${color}</g><text x="160" y="118" fill="#253329" font-family="Arial,sans-serif" font-size="44" letter-spacing="-2">NexoNet</text><text x="80" y="300" fill="#253329" font-family="Arial,sans-serif" font-size="76" letter-spacing="-4">De una idea</text><text x="80" y="390" fill="#41651b" font-family="Arial,sans-serif" font-size="76" letter-spacing="-4">a un sistema.</text><text x="84" y="510" fill="#5d6958" font-family="Arial,sans-serif" font-size="23">Diseño · Desarrollo · Automatización</text><g transform="translate(900 275) scale(4)">${color}</g>`));
+console.log('Identidad V5 exportada en SVG.');
