@@ -11,7 +11,7 @@ export function brandTheatre(){
    <div class="brand-caption"><span class="eyebrow">ESTUDIO DIGITAL / WEB + IA</span><span>CONEXIONES CON PROPÓSITO.</span></div>
    <h1 id="entry-title" class="brand-title" aria-label="NexoNet, diseño web e IA aplicada para pequeños negocios"><span class="brand-word" data-brand-word>Nexo</span><span class="brand-word brand-word-outline" data-brand-word>Net</span></h1>
    <div class="brand-object" data-brand-object aria-hidden="true"><div class="brand-object-tilt" data-brand-tilt>${brandSculpture()}</div></div>
-   <div class="brand-intent"><p>Tu primera web.<br><span>Tu siguiente paso.</span></p><a href="#propuestas">Ver propuestas <span aria-hidden="true">↓</span></a></div>
+   <div class="brand-intent"><p><span>Tu siguiente paso.</span></p></div>
  </div>`;
 }
 export function brandRibbon(){
