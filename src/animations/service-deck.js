@@ -9,8 +9,8 @@ export function createServiceDeck(lenis=null,reduced=false){
  const cards=[...root.querySelectorAll('[data-service-card]')];
  const buttons=[...root.querySelectorAll('[data-service-index]')];
  const media=gsap.matchMedia();
- media.add({desktop:'(min-width:901px) and (min-height:700px)',all:'(min-width:0px)'},context=>{
-  const pinned=!reduced&&context.conditions.desktop;
+ media.add({desktop:'(min-width:901px) and (min-height:700px)',mobile:'(max-width:900px) and (min-height:800px)',all:'(min-width:0px)'},context=>{
+  const pinned=!reduced&&(context.conditions.desktop||context.conditions.mobile);
   root.dataset.mode=pinned?'scroll':'static';
   runway.classList.toggle('is-service-scroll',pinned);
   let timeline,trigger;

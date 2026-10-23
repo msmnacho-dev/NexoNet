@@ -287,3 +287,17 @@
 @media(min-width:601px) and (max-width:900px) {
   :is(.reduced-motion,.no-js) .brand-ribbon-group { grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 14px;padding:12px; }
 }
+/* Keep the animated service deck on taller phones without clipping its text or ribbon. */
+@media(max-width:900px) and (min-height:800px) {
+  .is-service-scroll .entry-scene { height:calc(100svh - var(--header-height) - 8px);grid-template-rows:clamp(104px,14svh,128px) minmax(0,1fr) minmax(132px,auto);padding:8px 6vw;gap:6px; }
+  .is-service-scroll .entry-scene .brand-theatre { height:100%; }
+  .is-service-scroll .entry-scene .brand-object { --object-size:clamp(86px,25vw,112px);top:calc(45% - var(--object-size)/2); }
+  .is-service-scroll .service-deck { grid-template-rows:minmax(0,1fr) 34px;gap:2px; }
+  .is-service-scroll .deck-card.entry-offer { grid-template-rows:auto 140px; }
+  .is-service-scroll .deck-art-wrap,.is-service-scroll .deck-art { min-height:0; }
+  .is-service-scroll .entry-proposals.service-deck .deck-controls { display:flex;justify-content:center;min-height:34px; }
+  .is-service-scroll .deck-pager { display:grid;grid-template-columns:repeat(6,minmax(0,1fr));width:100%;gap:2px; }
+  .is-service-scroll .deck-pager button { min-height:32px;min-width:0;padding:4px; }
+  .is-service-scroll .deck-page-name,.is-service-scroll .deck-scroll-hint { display:none; }
+  .is-service-scroll .deck-page-number { display:block; }
+}
