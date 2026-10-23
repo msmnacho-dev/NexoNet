@@ -348,7 +348,7 @@
   .is-service-scroll .entry-proposals.service-deck .deck-controls { display:flex;justify-content:center;min-height:34px; }
   .is-service-scroll .deck-pager { display:grid;grid-template-columns:repeat(6,minmax(0,1fr));width:100%;gap:2px; }
   .is-service-scroll .deck-pager button { min-height:32px;min-width:0;padding:4px; }
-  .is-service-scroll .deck-page-name,.is-service-scroll .deck-scroll-hint { display:none; }
+  .is-service-scroll .deck-page-name { display:none; }
   .is-service-scroll .deck-page-number { display:block; }
 }
 @media(max-width:900px) and (min-height:700px) and (max-height:799px) {

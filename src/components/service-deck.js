@@ -41,6 +41,6 @@ export function serviceDeck() {
    <div class="deck-copy"><span class="offer-index">0${i + 1} / ${s.kicker}</span><div class="deck-title-row"><h2 id="entry-${s.id}-title">${s.title}</h2>${i === 0 ? '<span class="entry-price"><strong class="entry-price-amount">49 €</strong><small>+ IVA</small></span>' : ''}</div><p class="deck-summary">${s.summary}</p>${s.detail ? `<p class="deck-detail">${s.detail}</p>` : ''}<div class="deck-cta">${contactAction({ service: s.service, label: s.cta })}</div></div>
    <div class="deck-art-wrap"><div class="deck-art deck-art-${s.id}" aria-hidden="true">${arts[s.id]()}</div></div>
   </article>`).join('')}</div>
-  <div class="deck-controls"><nav class="deck-pager" aria-label="Cambiar de servicio">${entryServices.map((s, i) => `<button type="button" data-service-index="${i}" aria-controls="entry-${s.id}" aria-label="Ver ${s.name}"${i === 0 ? ' aria-current="true"' : ''}><span class="deck-page-number">0${i + 1}</span><span class="deck-page-name">${s.name}</span></button>`).join('')}</nav><span class="deck-scroll-hint">BAJA PARA CAMBIAR <span aria-hidden="true">↓</span></span></div>
+  <div class="deck-controls"><nav class="deck-pager" aria-label="Cambiar de servicio">${entryServices.map((s, i) => `<button type="button" data-service-index="${i}" aria-controls="entry-${s.id}" aria-label="Ver ${s.name}"${i === 0 ? ' aria-current="true"' : ''}><span class="deck-page-number">0${i + 1}</span><span class="deck-page-name">${s.name}</span></button>`).join('')}</nav></div>
  </div>`;
 }

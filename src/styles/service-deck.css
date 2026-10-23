@@ -43,8 +43,6 @@
  .deck-pager button .deck-page-number { display:block;font-size:14px;opacity:1; }
  .deck-controls { width:100%; }
 }
-.deck-scroll-hint { display:none;font-size:8px;letter-spacing:.07em;color:var(--muted);white-space:nowrap; }
-.deck-scroll-hint>span { font-size:15px;margin-left:8px; }
 .deck-skip { display:flex;align-items:center;justify-content:space-between;gap:15px;min-height:44px;font-size:11px;white-space:nowrap; }
 .is-service-scroll .entry-scene { position:sticky;top:var(--header-height);height:calc(100svh - var(--header-height) - 40px);grid-template-rows:clamp(180px,29svh,260px) minmax(0,1fr) 136px; }
 .is-service-scroll .service-deck { grid-template-rows:minmax(0,1fr) 44px; }
@@ -52,7 +50,6 @@
 .is-service-scroll .deck-card { position:absolute;inset:0;min-height:0;will-change:transform; }
 .is-service-scroll .deck-card:not(.is-current) { pointer-events:none; }
 .is-service-scroll .deck-art { min-height:0; }
-.is-service-scroll .deck-scroll-hint { display:block; }
 .entry-proof,.entry-bottom { width:88%;margin-inline:auto; }
 
 /* Large custom service marks replace the old asterisks. */
@@ -157,7 +154,7 @@
 
 @media(min-width:1700px) { .entry-scene .brand-theatre .brand-title { font-size:270px; }.is-service-scroll .entry-scene { grid-template-rows:290px minmax(0,1fr) minmax(124px,auto); } }
 @media(max-width:1200px) {
- .deck-page-number { display:none; }.deck-pager button { padding-inline:9px; }.deck-scroll-hint { display:none!important; }.deck-card { gap:16px; }.entry-offer.deck-card { padding:22px; }.deck-title-row { gap:8px 14px;margin-top:10px; }.deck-card .deck-title-row h2 { font-size:clamp(40px,4.6vw,57px); }.deck-card .entry-price { font-size:40px; }.deck-card .deck-summary { font-size:13px;margin-top:10px; }.deck-card .deck-detail { font-size:10px;margin-top:7px; }.deck-cta { margin-top:12px; }.deck-cta .button { font-size:11px;padding:10px 13px;gap:14px; }.deck-card .deck-contact-note { font-size:8px; }.entry-scene .brand-object { --object-size:245px; }.deck-title-row h2 em { font-weight:450; }.deck-art-ai { padding:4px;gap:10px; }.deck-ai-query,.deck-ai-draft { padding:13px 14px; }.deck-ai-draft .deck-human { font-size:8px; }.deck-node>span { font-size:8px; }
+ .deck-page-number { display:none; }.deck-pager button { padding-inline:9px; }.deck-card { gap:16px; }.entry-offer.deck-card { padding:22px; }.deck-title-row { gap:8px 14px;margin-top:10px; }.deck-card .deck-title-row h2 { font-size:clamp(40px,4.6vw,57px); }.deck-card .entry-price { font-size:40px; }.deck-card .deck-summary { font-size:13px;margin-top:10px; }.deck-card .deck-detail { font-size:10px;margin-top:7px; }.deck-cta { margin-top:12px; }.deck-cta .button { font-size:11px;padding:10px 13px;gap:14px; }.deck-card .deck-contact-note { font-size:8px; }.entry-scene .brand-object { --object-size:245px; }.deck-title-row h2 em { font-weight:450; }.deck-art-ai { padding:4px;gap:10px; }.deck-ai-query,.deck-ai-draft { padding:13px 14px; }.deck-ai-draft .deck-human { font-size:8px; }.deck-node>span { font-size:8px; }
 }
 @media(max-width:900px) and (min-width:601px) {
  .is-service-scroll .entry-scene { grid-template-rows:210px minmax(0,1fr) minmax(124px,auto); }.deck-controls { gap:10px; }.deck-page-name { font-size:9px; }.deck-pager { gap:1px; }.deck-pager button { padding-inline:6px; }.deck-skip { font-size:10px;gap:8px; }.entry-offer.deck-card { grid-template-columns:1fr .85fr;padding:22px 20px;gap:12px; }.deck-card .deck-title-row h2 { font-size:43px; }.deck-title-row { flex-direction:column;gap:8px; }.deck-art { min-height:320px; }.deck-mobile { width:27%; }.deck-brote { padding:12px; }.deck-brote-hero { gap:7px; }.deck-brote-hero>div>strong { font-size:28px; }.deck-brote-button { font-size:6px;padding:7px; }.deck-type-sheet { padding:12px; }.deck-app-body>aside { padding:18px 7px;font-size:7px; }.deck-app-body>div { padding:14px 10px; }.deck-app-row { gap:5px;font-size:8px; }.deck-app-row>b { font-size:6px; }.deck-code { padding:12px;font-size:11px;gap:10px; }.deck-code svg { width:32px; }
@@ -171,7 +168,6 @@
 /* Short windows and reduced motion use the same six readable, natural cards. */
 .service-deck[data-mode="static"] .deck-pager,.no-js .deck-pager { display:none; }
 .service-deck[data-mode="static"] .deck-controls,.no-js .deck-controls { justify-content:flex-end; }
-.no-js .deck-scroll-hint { display:none; }
 .reduced-motion .entry-scene,.no-js .entry-scene { height:auto;position:static; }
 .reduced-motion .deck-card,.no-js .deck-card { min-height:370px; }
 .no-js .brand-ribbon-group,.reduced-motion .brand-ribbon-group { flex:1;gap:20px; }
