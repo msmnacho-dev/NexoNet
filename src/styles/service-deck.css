@@ -16,6 +16,8 @@
 .deck-card .deck-title-row h2 { font-size:clamp(42px,4.5vw,72px);font-weight:620;letter-spacing:-.065em;line-height:.97;margin:0;color:var(--deck-ink); }
 .deck-title-row h2 em { font-style:normal;font-weight:450; }
 .deck-card .entry-price { font-size:clamp(34px,3.6vw,57px);font-weight:550;color:var(--deck-ink);margin:0; }
+.deck-card .entry-price { display:inline-flex;align-items:baseline;gap:5px; }
+.deck-card .entry-price-amount { display:inline-block;font-size:clamp(50px,5.2vw,72px);font-weight:760;letter-spacing:-.075em;line-height:.88;color:var(--accent); }
 .deck-card .entry-price small { font-size:12px;font-weight:450; }
 .deck-card .entry-price-terms { font-size:10px;line-height:1.5;max-width:450px;margin-top:10px;color:var(--deck-muted); }
 .deck-card .deck-summary { font-size:14px;line-height:1.55;margin-top:13px;max-width:440px;color:var(--deck-ink); }
