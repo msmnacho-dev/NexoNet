@@ -288,6 +288,49 @@
   :is(.reduced-motion,.no-js) .brand-ribbon-group { grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 14px;padding:12px; }
 }
 #app .deck-card.deck-eco .deck-summary { max-width:none;font-size:clamp(17px,1.4vw,19px);font-style:italic;line-height:1.4;margin-top:14px; }
+
+/* Give short section introductions a distinct, editorial voice throughout the page. */
+#app .deck-card .deck-summary,
+#app .landing-wall-explain>p,
+#app .offer-details-heading>p,
+#app .service-overview-heading>p,
+#app .service-overview-copy p,
+#app .philosophy-copy>p,
+#app .project-story-copy>p,
+#app .section-intro>p,
+#app .faq>div>p,
+#app .contact>p,
+#app .live-copy>p {
+  font-family:Georgia,"Times New Roman",serif;
+  font-style:italic;
+  font-weight:400;
+  letter-spacing:-.025em;
+  line-height:1.45;
+}
+
+#app .deck-card .deck-summary { font-size:clamp(16px,1.1vw,18px); }
+#app .landing-wall-explain>p,
+#app .offer-details-heading>p,
+#app .service-overview-heading>p,
+#app .philosophy-copy>p,
+#app .project-story-copy>p,
+#app .section-intro>p,
+#app .faq>div>p,
+#app .contact>p,
+#app .live-copy>p { font-size:clamp(18px,1.15vw,21px); }
+
+@media(max-width:600px) {
+  #app .deck-card .deck-summary { font-size:15px; }
+  #app .landing-wall-explain>p,
+  #app .offer-details-heading>p,
+  #app .service-overview-heading>p,
+  #app .philosophy-copy>p,
+  #app .project-story-copy>p,
+  #app .section-intro>p,
+  #app .faq>div>p,
+  #app .contact>p,
+  #app .live-copy>p { font-size:18px; }
+}
 @media(max-width:900px) {
   #app .deck-card.deck-eco .deck-summary { font-size:15px;line-height:1.4;margin-top:9px; }
 }
