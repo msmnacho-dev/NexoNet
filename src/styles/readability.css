@@ -291,6 +291,7 @@
 
 /* Give short section introductions a distinct, editorial voice throughout the page. */
 #app .deck-card .deck-summary,
+#app .deck-card .deck-detail,
 #app .landing-wall-explain>p,
 #app .offer-details-heading>p,
 #app .service-overview-heading>p,
@@ -308,7 +309,8 @@
   line-height:1.45;
 }
 
-#app .deck-card .deck-summary { font-size:clamp(16px,1.1vw,18px); }
+#app .deck-card .deck-summary { font-size:clamp(18px,1.2vw,20px); }
+#app .deck-card .deck-detail { font-size:clamp(16px,1vw,18px);margin-top:10px; }
 #app .landing-wall-explain>p,
 #app .offer-details-heading>p,
 #app .service-overview-heading>p,
@@ -320,7 +322,8 @@
 #app .live-copy>p { font-size:clamp(18px,1.15vw,21px); }
 
 @media(max-width:600px) {
-  #app .deck-card .deck-summary { font-size:15px; }
+  #app .deck-card .deck-summary { font-size:17px; }
+  #app .deck-card .deck-detail { font-size:15px;line-height:1.4;margin-top:7px; }
   #app .landing-wall-explain>p,
   #app .offer-details-heading>p,
   #app .service-overview-heading>p,
@@ -362,9 +365,9 @@
   .is-service-scroll .deck-card .entry-price { font-size:29px; }
   .is-service-scroll .deck-card .entry-price-amount { font-size:36px; }
   #app .is-service-scroll .deck-card .entry-price-terms { font-size:8px;line-height:1.3;margin-top:4px; }
-  #app .is-service-scroll .deck-card .deck-summary { font-size:10px;line-height:1.3;margin-top:5px; }
-  #app .is-service-scroll .deck-card.deck-eco .deck-summary { font-size:13px;line-height:1.3;margin-top:5px; }
-  .is-service-scroll .deck-card .deck-detail { font-size:9px;line-height:1.3;margin-top:4px; }
+  #app .is-service-scroll .deck-card .deck-summary { font-size:14px;line-height:1.35;margin-top:5px; }
+  #app .is-service-scroll .deck-card.deck-eco .deck-summary { font-size:14px;line-height:1.35;margin-top:5px; }
+  #app .is-service-scroll .deck-card .deck-detail { font-size:12px;line-height:1.35;margin-top:5px; }
   .is-service-scroll .deck-cta { margin-top:6px; }
   .is-service-scroll .deck-cta .button { min-height:34px;font-size:10px;padding:7px 10px; }
   .is-service-scroll .entry-proposals.service-deck .deck-controls { min-height:30px; }
