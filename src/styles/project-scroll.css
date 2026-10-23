@@ -1,5 +1,5 @@
 .project-runway { position:relative; }
-.projects:is(.is-scroll-gallery,.is-vertical-gallery) { overflow:clip;--gallery-bg:#e9eddf; }
+.projects:is(.is-scroll-gallery,.is-vertical-gallery) { overflow:clip;--gallery-bg:var(--tone-e9eddf,var(--tone-e9eddf,#e9eddf)); }
 [data-theme="dark"] .projects { --gallery-bg:#1e2c21; }
 .is-scroll-gallery .projects-stage { position:sticky;top:110px;height:calc(100svh - 110px);display:flex;flex-direction:column;overflow:hidden; }
 .is-scroll-gallery .projects-heading h2 { font-size:42px;margin-top:12px; }

@@ -2,8 +2,8 @@ export const siteConfig = {
   brandName: 'NexoNet',
   versionLabel: 'V5',
   tagline: 'Diseñamos. Programamos. Automatizamos.',
-  accent: '#41651b',
-  accentOptions: { leaf: '#41651b', lime: '#c4ed76' },
+  accent: '#b42332',
+  accentOptions: { leaf: '#b42332', lime: '#f6a6a8' },
   url: '', // URL pública HTTPS: activa canonical y og:url.
   schema: null, // Añadir datos verificados de ProfessionalService antes de publicar.
   contact: { heading: '¿Cuál es tu siguiente paso?', description: 'Una primera web, un nuevo diseño o una tarea que quieres simplificar. Pon tu idea en palabras y prepara un resumen para compartirlo.' },

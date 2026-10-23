@@ -13,6 +13,7 @@ import './styles/landing-wall.css';
 import './styles/readability.css';
 import './styles/project-story.css';
 import './styles/footer.css';
+import './styles/palette-tones.css';
 import { renderSite } from './render.js';
 import { initScroll } from './animations/scroll.js';
 import { initInteractions } from './components/interactions.js';

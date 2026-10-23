@@ -2,7 +2,7 @@
 .site-header { top:0;left:0;right:0;margin:0;padding-inline:6vw;border-radius:0;border-width:0 0 1px; }
 section[id],article[id],#contenido { scroll-margin-top:var(--anchor-offset); }
 .site-header nav a { min-height:44px; }
-.contact-summary-link { margin-top:16px;color:#d3e8b8;font-size:13px; }
+.contact-summary-link { margin-top:16px;color:var(--tone-d3e8b8,var(--tone-d3e8b8,#d3e8b8));font-size:13px; }
 .entry-offer>.entry-price-terms { font-size:10px;line-height:1.5;margin-top:8px;color:var(--muted);max-width:390px; }
 .offer-price-terms { font-size:12px;line-height:1.6;margin-top:16px;color:var(--muted); }
 .ai-demo-context { font-size:11px;line-height:1.6;margin-top:9px; }
