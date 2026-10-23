@@ -21,7 +21,7 @@
 .landing-preview-controls>button { font-size:14px; }
 .landing-preview-controls>[role="status"] { font-size:12px; }
 
-@media(max-width:800px) {
+@media(max-width:900px) {
   .landing-wall-label { flex-direction:column;align-items:flex-start; }
   .landing-wall-label h2,.landing-wall-label>span { font-size:12px; }
   .landing-wall-label h2 { padding:10px 13px; }
@@ -252,3 +252,38 @@
 /* Give the moving NexoNet mark breathing room on narrow screens. */
 @media(max-width:600px){.is-service-scroll .entry-scene{grid-template-rows:180px minmax(0,1fr) 78px}.is-service-scroll .entry-scene .brand-theatre{height:180px}.is-service-scroll .entry-scene .brand-object{top:calc(50% - var(--object-size)/2)}}
 @media(max-width:600px) and (max-height:740px){.is-service-scroll .entry-scene{grid-template-rows:132px minmax(0,1fr) 68px}.is-service-scroll .entry-scene .brand-theatre{height:132px}.is-service-scroll .entry-scene .brand-object{--object-size:94px;top:calc(50% - var(--object-size)/2)}}
+
+/* Keep every service preview and the full service ribbon visible on phones. */
+@media(max-width:800px) {
+  .entry-scene { grid-template-rows:180px auto auto;gap:10px; }
+  .entry-proposals.service-deck,.is-service-scroll .service-deck { grid-template-rows:auto;gap:0; }
+  .deck-stack { gap:12px; }
+  .entry-offer.deck-card { grid-template-columns:minmax(0,1fr);grid-template-rows:auto 190px;min-height:0;padding:17px;gap:10px; }
+  .deck-card .deck-detail { display:block;font-size:12px;line-height:1.45;margin-top:7px; }
+  .deck-card .deck-contact-note { display:none; }
+  #app .deck-card .deck-summary { font-size:13px;line-height:1.4; }
+  #app .deck-card .entry-price-terms { font-size:12px;line-height:1.35; }
+  .deck-art-wrap { min-height:190px; }
+  .deck-art { min-height:190px; }
+  .deck-controls,.entry-proposals.service-deck .deck-controls { display:none; }
+  .entry-scene .brand-ribbon { margin:10px -6vw 0;min-height:0;align-items:stretch; }
+  .brand-ribbon-track { width:100%;animation:none;transform:none; }
+  .brand-ribbon-group { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:center;width:100%;white-space:normal;gap:8px;padding:10px; }
+  .brand-ribbon-group:nth-child(2) { display:none; }
+  .ribbon-service { min-width:0;gap:7px; }
+  .ribbon-service>strong { font-size:clamp(10px,3.1vw,12px);line-height:1.2;letter-spacing:-.02em; }
+  .ribbon-service-mark { flex:0 0 32px;width:32px;height:32px;border-radius:9px;transform:none; }
+  .ribbon-service-mark>svg { width:20px;height:20px; }
+}
+@media(min-width:601px) and (max-width:900px) {
+  .brand-ribbon-group { grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 14px;padding:12px; }
+}
+@media(max-width:900px) {
+  :is(.reduced-motion,.no-js) .brand-ribbon-group { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));justify-content:initial;gap:8px;padding:10px; }
+  :is(.reduced-motion,.no-js) .ribbon-service>strong { font-size:clamp(10px,3.1vw,12px); }
+  :is(.reduced-motion,.no-js) .ribbon-service-mark { flex:0 0 32px;width:32px;height:32px; }
+  :is(.reduced-motion,.no-js) .ribbon-service-mark>svg { width:20px;height:20px; }
+}
+@media(min-width:601px) and (max-width:900px) {
+  :is(.reduced-motion,.no-js) .brand-ribbon-group { grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 14px;padding:12px; }
+}
