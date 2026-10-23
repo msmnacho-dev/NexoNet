@@ -9,7 +9,7 @@ export function journey() {
       <div class="journey-narrative">${journeyScenes.map((s,i)=>`<article class="journey-copy ${i===0?'is-active':''}" data-scene="${i}" id="etapa-${s.id}">
         <div class="scene-index">0${i+1} / 06 <span>${s.label}</span></div>
         <h2 tabindex="-1">${s.title.replace('\n','<br>')}</h2><p>${s.copy}</p><span class="scene-deliverable">${s.deliverable}</span>
-        ${i===0?'<a href="#proyectos" class="text-link">Explorar las posibilidades <span>↗</span></a>':''}
+        ${i===0?'<a href="#propuestas" class="text-link">Explorar las posibilidades <span>↗</span></a>':''}
         ${i===5?'<a href="#contacto" class="text-link">Dar el primer paso <span>↗</span></a>':''}
         <img class="scene-static" src="${s.poster}" alt="Diseño visual de la etapa ${s.label.toLowerCase()}" loading="lazy" width="1600" height="900">
       </article>`).join('')}</div>

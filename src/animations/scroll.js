@@ -2,7 +2,6 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import Lenis from 'lenis';
 import { createVideoJourney } from './video-journey.js';
-import { createProjectGallery } from './project-gallery.js';
 import { createBrandMotion } from './brand-motion.js';
 import { createServiceDeck } from './service-deck.js';
 import {createLandingWall} from './landing-wall.js';
@@ -45,8 +44,7 @@ export function initScroll() {
     if(reduced){
       const disposeDeck=createServiceDeck(null,true);
       const disposeJourney=createVideoJourney(null,true);
-      const disposeGallery=createProjectGallery(null,true);
-      return ()=>{disposeWall();disposeDeck();disposeBrand();disposeGallery();disposeJourney();};
+      return ()=>{disposeWall();disposeDeck();disposeBrand();disposeJourney();};
     }
     const lenis=new Lenis({duration:.8,smoothWheel:true,syncTouch:false,anchors:false,prevent:node=>node.tagName==='DIALOG'});
     activeLenis=lenis;
@@ -55,14 +53,13 @@ export function initScroll() {
     gsap.ticker.add(tick);
     const disposeDeck=createServiceDeck(lenis);
     const disposeJourney=createVideoJourney(lenis);
-    const disposeGallery=createProjectGallery(lenis);
     const visibility=()=>document.hidden?lenis.stop():lenis.start();
     document.addEventListener('visibilitychange',visibility);
     document.fonts.ready.then(()=>ScrollTrigger.refresh());
     const details=[...document.querySelectorAll('details')];
     const refresh=()=>ScrollTrigger.refresh();
     details.forEach(element=>element.addEventListener('toggle',refresh));
-    return ()=>{activeLenis=null;disposeWall();disposeDeck();disposeBrand();disposeGallery();disposeJourney();details.forEach(element=>element.removeEventListener('toggle',refresh));gsap.ticker.remove(tick);lenis.destroy();document.removeEventListener('visibilitychange',visibility);};
+    return ()=>{activeLenis=null;disposeWall();disposeDeck();disposeBrand();disposeJourney();details.forEach(element=>element.removeEventListener('toggle',refresh));gsap.ticker.remove(tick);lenis.destroy();document.removeEventListener('visibilitychange',visibility);};
   });
   const initialTarget=document.getElementById(location.hash.slice(1));
   if(initialTarget){revealDetails(initialTarget);document.fonts.ready.then(()=>{
