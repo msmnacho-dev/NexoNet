@@ -13,7 +13,7 @@ export function services() {
           <path d="M23 61C13 68 9 79 15 86C21 94 44 94 69 91C85 89 96 85 94 80C93 76 86 75 77 76" stroke="#f45b9f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
         <span class="contact-mascot-note">¡Miau! Tu idea ya está en buenas patas.</span>
-      </div><h2 id="contact-form-title">Haz que tu negocio destaque y atraiga más clientes.</h2><p>Una web, posicionamiento, diseño o una tarea que quieras simplificar. Cuéntanos qué quieres conseguir y encontraremos contigo el siguiente paso.</p></div>
+      </div><h2 id="contact-form-title">Haz <strong>que tu negocio destaque</strong> y atraiga más clientes.</h2><p>Una web, posicionamiento, diseño o una tarea que quieras simplificar. Cuéntanos qué quieres conseguir y encontraremos contigo el siguiente paso.</p></div>
     <div class="contact-form-panel">${contactForm()}</div>
   </section>`;
 }
