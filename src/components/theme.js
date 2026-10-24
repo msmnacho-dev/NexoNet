@@ -73,7 +73,8 @@ export function initTheme() {
     try { localStorage.setItem(storageKey,theme); } catch { /* Still works without storage access. */ }
   });
   const paletteDialog=document.querySelector('#palette-dialog');
-  document.querySelector('#palette-open').addEventListener('click',()=>{
+  const paletteOpen=document.querySelector('#palette-open');
+  if(paletteOpen)paletteOpen.addEventListener('click',()=>{
     nav.classList.remove('open');
     document.querySelector('.menu-toggle').setAttribute('aria-expanded','false');
     paletteDialog.showModal();
