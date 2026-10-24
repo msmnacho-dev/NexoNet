@@ -1,6 +1,6 @@
 import { contactChannel,contactHref,inquiryMessage } from './contact-action.js';
 export function buildBrief(data) {
-  return `NEXONET — CONSULTA DE PROYECTO\n\nNombre: ${data.name?.trim()||'Sin indicar'}\nEmail: ${data.email?.trim()||'Sin indicar'}\nÁrea: ${data.service}\nMayores de 18 años: ${data.ageConfirmed==='Sí'?'Sí, confirmado':'No confirmado'}\nNoticias y promociones: ${data.marketingConsent==='Sí'?'Acepta recibirlas':'No acepta / sin marcar'}\n\n${data.message}\n`;
+  return `NEXONET — CONSULTA DE PROYECTO\n\nNombre: ${data.name?.trim()||'Sin indicar'}\nEmail: ${data.email?.trim()||'Sin indicar'}\n${data.phone?.trim()?`Teléfono: ${data.phone.trim()}\n`:''}Área: ${data.service}\nMayores de 18 años: ${data.ageConfirmed==='Sí'?'Sí, confirmado':'No confirmado'}\nNoticias y promociones: ${data.marketingConsent==='Sí'?'Acepta recibirlas':'No acepta / sin marcar'}\n\n${data.message}\n`;
 }
 export function initInteractions() {
   const menu=document.querySelector('.menu-toggle');

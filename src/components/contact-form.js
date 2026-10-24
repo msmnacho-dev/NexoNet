@@ -8,6 +8,7 @@ export function contactForm() {
       <label>Tu nombre<input name="name" autocomplete="name" required maxlength="120" placeholder="Cómo te llamas"></label>
       <label>Tu email<input name="email" type="email" autocomplete="email" required maxlength="254" placeholder="tu@email.com"></label>
     </div>
+    <label>Teléfono (opcional)<input name="phone" type="tel" autocomplete="tel" maxlength="32" placeholder="Tu teléfono"></label>
     <label>¿Qué necesitas?<select name="service" required><option value="" disabled selected>Elige una opción</option><option>Web o aplicación</option>${featuredOffers.map(offer=>`<option>${offer.contactService}</option>`).join('')}<option>Posicionamiento SEO/GEO y redes sociales</option><option>Automatización e integraciones</option><option>Diseño e imagen</option><option>Quiero definirlo contigo</option></select></label>
     <label>Cuéntanos un poco más<textarea name="message" required minlength="15" maxlength="5000" rows="5" placeholder="¿En qué podemos ayudarte?"></textarea></label>
     <fieldset class="contact-consents"><legend>Antes de continuar</legend>
