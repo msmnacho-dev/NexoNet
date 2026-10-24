@@ -43,14 +43,11 @@ export function initInteractions() {
     dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());
     dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
   });
-  let generatedMessage='';
   const form=document.querySelector('#contact-form');
   const message=form.querySelector('[name=message]');
   const select=form.querySelector('[name=service]');
   function prepareMessage() {
-    if(!message.value||message.value===generatedMessage){
-      generatedMessage=inquiryMessage(select.value);message.value=generatedMessage;
-    }
+    message.placeholder=inquiryMessage(select.value)||'¿Qué necesita resolver tu negocio?';
   }
   select.addEventListener('change',prepareMessage);
   document.querySelectorAll('[data-contact-service]').forEach(button=>button.addEventListener('click',()=>{
