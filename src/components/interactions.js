@@ -47,7 +47,7 @@ export function initInteractions() {
   const message=form.querySelector('[name=message]');
   const select=form.querySelector('[name=service]');
   function prepareMessage() {
-    message.placeholder=inquiryMessage(select.value)||'¿Qué necesita resolver tu negocio?';
+    message.placeholder=inquiryMessage(select.value)||'¿En qué podemos ayudarte?';
   }
   select.addEventListener('change',prepareMessage);
   document.querySelectorAll('[data-contact-service]').forEach(button=>button.addEventListener('click',()=>{

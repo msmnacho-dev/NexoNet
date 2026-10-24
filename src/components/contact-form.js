@@ -9,7 +9,7 @@ export function contactForm() {
       <label>Tu email<input name="email" type="email" autocomplete="email" required maxlength="254" placeholder="tu@email.com"></label>
     </div>
     <label>¿Qué necesitas?<select name="service" required><option value="" disabled selected>Elige una opción</option><option>Web o aplicación</option>${featuredOffers.map(offer=>`<option>${offer.contactService}</option>`).join('')}<option>Posicionamiento SEO/GEO y redes sociales</option><option>Automatización e integraciones</option><option>Diseño e imagen</option><option>Quiero definirlo contigo</option></select></label>
-    <label>Cuéntanos un poco más<textarea name="message" required minlength="15" maxlength="5000" rows="5" placeholder="¿Qué necesita resolver tu negocio?"></textarea></label>
+    <label>Cuéntanos un poco más<textarea name="message" required minlength="15" maxlength="5000" rows="5" placeholder="¿En qué podemos ayudarte?"></textarea></label>
     <fieldset class="contact-consents"><legend>Antes de continuar</legend>
       <label class="contact-check"><input name="ageConfirmed" type="checkbox" value="Sí" required><span>Confirmo que tengo 18 años o más.</span></label>
       <label class="contact-check"><input name="marketingConsent" type="checkbox" value="Sí"><span>Acepto recibir noticias y promociones de NexoNet. <small>Opcional; no condiciona la consulta.</small></span></label>
