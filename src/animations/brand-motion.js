@@ -43,7 +43,7 @@ export function createBrandMotion(reduced=false){
    hello.fromTo(contactMascot,{y:18,scale:.88,rotation:-4,opacity:0},{y:0,scale:1,rotation:0,opacity:1,duration:.65,ease:'back.out(1.6)'})
     .fromTo(contactMascot.querySelector('.contact-mascot-note'),{y:9,scale:.88,opacity:0},{y:0,scale:1,opacity:1,duration:.4,ease:'back.out(2)'},.25)
     .to(contactMascot.querySelector('.contact-cat-figure'),{y:-5,rotation:3,duration:.16,repeat:1,yoyo:true,ease:'power1.inOut',transformOrigin:'75% 85%'},.5)
-    .fromTo(contactYarn,{x:0,y:0,rotation:0},{x:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect();return panel.left+30-(ball.left+ball.width/2);},y:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect();return panel.top-10-(ball.top+ball.height/2);},rotation:720,scale:.84,duration:.88,ease:'power2.in',immediateRender:false},.64)
+    .fromTo(contactYarn,{x:0,y:0,rotation:0},{x:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect(),landingX=innerWidth<=800?panel.right-34:panel.left+30;return landingX-(ball.left+ball.width*.42);},y:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect();return panel.top-10-(ball.top+ball.height*.4);},rotation:720,scale:.84,duration:.88,ease:'power2.in',immediateRender:false},.64)
     .to(contactPanel,{x:8,duration:.07,ease:'none'},1.5)
     .to(contactPanel,{x:-6,duration:.08,ease:'none'},1.57)
     .to(contactPanel,{x:3,duration:.07,ease:'none'},1.65)
