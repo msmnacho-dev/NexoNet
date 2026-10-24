@@ -202,6 +202,12 @@
 .contact-form-intro .section-kicker { color:var(--tone-f0787d,#f0787d); }
 .contact-form-intro h2 { max-width:600px;margin-top:24px;font-size:clamp(42px,5.8vw,78px);line-height:1.02;letter-spacing:-.055em; }
 .contact-form-intro>p { max-width:430px;margin-top:22px;color:var(--muted);font-size:18px;line-height:1.6; }
+.contact-mascot { display:flex;align-items:center;gap:15px;width:max-content;max-width:100%;margin-top:28px;color:var(--brand-accent,var(--tone-2f65d5,#2f65d5));transform-origin:50% 100%; }
+.contact-mascot-figure { display:block;width:112px;height:auto;overflow:visible; }
+.contact-mascot-arm { transform-box:fill-box;transform-origin:12% 88%; }
+.contact-mascot-note { padding:12px 17px;border:1px solid color-mix(in srgb,var(--brand-accent,var(--tone-2f65d5,#2f65d5)) 22%,var(--line));border-radius:18px 18px 18px 4px;background:var(--bg);color:var(--text);font-size:15px;font-weight:700;box-shadow:0 8px 24px color-mix(in srgb,var(--text) 9%,transparent); }
+.reduced-motion .contact-mascot { opacity:1;transform:none; }
+.reduced-motion .contact-mascot-arm-right { transform:none; }
 .contact-form-panel { min-width:0;width:100%;max-width:760px;margin-inline:auto;padding:clamp(24px,4vw,48px);border:1px solid var(--line);border-radius:14px;background:color-mix(in srgb,var(--bg) 88%,var(--accent));box-shadow:0 18px 60px color-mix(in srgb,var(--text) 8%,transparent); }
 .contact-form { display:grid;gap:22px; }
 .contact-fields-pair { display:grid;grid-template-columns:1fr 1fr;gap:18px; }
@@ -221,6 +227,7 @@
 @media(max-width:800px) {
   .contact-form-section { grid-template-columns:1fr;gap:32px; }
   .contact-form-intro { position:static; }
+  .contact-mascot { margin-top:22px; }
   .contact-form-intro h2 { max-width:700px;font-size:clamp(40px,7vw,64px); }
   .contact-form-panel { max-width:none; }
   .service-overview-heading { grid-template-columns:1fr;gap:16px;margin-bottom:28px; }
@@ -234,6 +241,9 @@
   .contact-form-section { gap:27px;padding:64px 6vw 72px; }
   .contact-form-intro h2 { font-size:clamp(38px,10vw,48px); }
   .contact-form-intro>p { font-size:17px; }
+  .contact-mascot { gap:11px;margin-top:18px; }
+  .contact-mascot-figure { width:92px; }
+  .contact-mascot-note { padding:10px 13px;font-size:13px; }
   .contact-form-panel { padding:22px 18px; }
   .contact-fields-pair { grid-template-columns:1fr;gap:20px; }
   .contact-form { gap:20px; }

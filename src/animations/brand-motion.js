@@ -35,6 +35,13 @@ export function createBrandMotion(reduced=false){
   document.querySelectorAll('.offers-heading h2,.projects-heading h2,.service-overview-heading h2,.philosophy h2,.services .section-intro h2,.faq h2,.contact h2').forEach(heading=>{
    gsap.fromTo(heading,{y:22,opacity:.35},{y:0,opacity:1,ease:'none',scrollTrigger:{trigger:heading,start:'top 94%',end:'top 69%',scrub:true}});
   });
+  const contactMascot=document.querySelector('[data-contact-mascot]');
+  if(contactMascot){
+   const hello=gsap.timeline({scrollTrigger:{trigger:'#contacto',start:'top 76%',once:true}});
+   hello.fromTo(contactMascot,{y:26,scale:.72,rotation:-9,opacity:0},{y:0,scale:1,rotation:0,opacity:1,duration:.8,ease:'back.out(1.7)'})
+    .fromTo(contactMascot.querySelector('.contact-mascot-arm-right'),{rotation:-34},{rotation:22,duration:.18,repeat:5,yoyo:true,ease:'sine.inOut',transformOrigin:'12% 88%'},.6)
+    .fromTo(contactMascot.querySelector('.contact-mascot-note'),{y:8,scale:.85,opacity:0},{y:0,scale:1,opacity:1,duration:.4,ease:'back.out(2)'},.3);
+  }
   const overview=document.querySelector('.service-overview');
   const runway=overview?.querySelector('.service-overview-runway');
   const heading=overview?.querySelector('.service-overview-heading');
