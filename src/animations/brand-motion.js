@@ -55,17 +55,18 @@ export function createBrandMotion(reduced=false){
    const startLead=0;
    const headingSpace=()=>{const style=getComputedStyle(heading);return heading.getBoundingClientRect().height+(parseFloat(style.marginBottom)||0);};
    const reservedSpace=()=>headerHeight()+headingGap()+headingSpace();
+   const offscreenX=()=>Math.ceil(innerWidth-stage.getBoundingClientRect().left+64);
    const travel=()=>Math.round(innerHeight*.72*(cards.length-1));
    const measure=()=>{const reserved=reservedSpace();const height=Math.max(240,innerHeight-reserved-36);overview.style.setProperty('--service-heading-top',`${headerHeight()+headingGap()}px`);overview.style.setProperty('--service-stage-top',`${reserved}px`);stage.style.height=`${height}px`;runway.style.height=`${height+travel()}px`;};
    measure();
-   gsap.set(cards.slice(1),{xPercent:112,rotation:4});
+   gsap.set(cards.slice(1),{x:offscreenX,rotation:4});
    const timeline=gsap.timeline({scrollTrigger:{trigger:runway,start:()=>`top ${reservedSpace()+startLead}px`,end:()=>`+=${travel()+startLead}`,scrub:.5,invalidateOnRefresh:true,onRefreshInit:measure,onUpdate:self=>{
     const active=Math.min(cards.length-1,Math.floor(self.progress*(cards.length-1)+.2));
     cards.forEach((card,i)=>{const current=i===active;card.inert=!current;if(current)card.removeAttribute('aria-hidden');else card.setAttribute('aria-hidden','true');});
    }}});
    for(let i=1;i<cards.length;i++){
     cards.slice(0,i).forEach((card,j)=>{const depth=i-j;timeline.to(card,{x:-depth*14,y:-depth*16,scale:1-depth*.012,opacity:1-depth*.04,ease:'none',duration:.9},i-1);});
-    timeline.fromTo(cards[i],{xPercent:112,rotation:4},{xPercent:0,rotation:0,ease:'power3.out',duration:.9},i-1);
+    timeline.fromTo(cards[i],{x:offscreenX,rotation:4},{x:0,rotation:0,ease:'power3.out',duration:.9},i-1);
    }
    disposers.push(()=>{delete overview.dataset.motion;overview.style.removeProperty('--service-heading-top');overview.style.removeProperty('--service-stage-top');stage.style.removeProperty('height');runway.style.removeProperty('height');cards.forEach(card=>{card.style.removeProperty('z-index');card.inert=false;card.removeAttribute('aria-hidden');});});
   }
