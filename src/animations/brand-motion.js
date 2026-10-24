@@ -36,11 +36,18 @@ export function createBrandMotion(reduced=false){
    gsap.fromTo(heading,{y:22,opacity:.35},{y:0,opacity:1,ease:'none',scrollTrigger:{trigger:heading,start:'top 94%',end:'top 69%',scrub:true}});
   });
   const contactMascot=document.querySelector('[data-contact-mascot]');
-  if(contactMascot){
-   const hello=gsap.timeline({scrollTrigger:{trigger:'#contacto',start:'top 76%',once:true}});
-   hello.fromTo(contactMascot,{y:26,scale:.72,rotation:-9,opacity:0},{y:0,scale:1,rotation:0,opacity:1,duration:.8,ease:'back.out(1.7)'})
-    .fromTo(contactMascot.querySelector('.contact-mascot-arm-right'),{rotation:-34},{rotation:22,duration:.18,repeat:5,yoyo:true,ease:'sine.inOut',transformOrigin:'12% 88%'},.6)
-    .fromTo(contactMascot.querySelector('.contact-mascot-note'),{y:8,scale:.85,opacity:0},{y:0,scale:1,opacity:1,duration:.4,ease:'back.out(2)'},.3);
+  const contactYarn=contactMascot?.querySelector('[data-contact-yarn]');
+  const contactPanel=document.querySelector('.contact-form-panel');
+  if(contactMascot&&contactYarn&&contactPanel){
+   const hello=gsap.timeline({scrollTrigger:{trigger:contactPanel,start:'top 68%',once:true,invalidateOnRefresh:true}});
+   hello.fromTo(contactMascot,{y:18,scale:.88,rotation:-4,opacity:0},{y:0,scale:1,rotation:0,opacity:1,duration:.65,ease:'back.out(1.6)'})
+    .fromTo(contactMascot.querySelector('.contact-mascot-note'),{y:9,scale:.88,opacity:0},{y:0,scale:1,opacity:1,duration:.4,ease:'back.out(2)'},.25)
+    .fromTo(contactMascot.querySelector('.contact-cat-paw'),{rotation:0},{rotation:-20,duration:.14,repeat:3,yoyo:true,ease:'sine.inOut',transformOrigin:'15% 50%'},.5)
+    .fromTo(contactYarn,{x:0,y:0,rotation:0},{x:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect();return panel.left+30-(ball.left+ball.width/2);},y:()=>{const ball=contactYarn.getBoundingClientRect(),panel=contactPanel.getBoundingClientRect();return panel.top-10-(ball.top+ball.height/2);},rotation:720,scale:.84,duration:.88,ease:'power2.in',immediateRender:false},.64)
+    .to(contactPanel,{x:8,duration:.07,ease:'none'},1.5)
+    .to(contactPanel,{x:-6,duration:.08,ease:'none'},1.57)
+    .to(contactPanel,{x:3,duration:.07,ease:'none'},1.65)
+    .to(contactPanel,{x:0,duration:.12,ease:'power2.out'},1.72);
   }
   const overview=document.querySelector('.service-overview');
   const runway=overview?.querySelector('.service-overview-runway');
