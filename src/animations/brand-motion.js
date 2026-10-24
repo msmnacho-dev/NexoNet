@@ -40,17 +40,16 @@ export function createBrandMotion(reduced=false){
   const heading=overview?.querySelector('.service-overview-heading');
   const stage=overview?.querySelector('[data-service-stack]');
   const cards=stage?[...stage.querySelectorAll('.service-overview-card')]:[];
-  const supportsStack=matchMedia('(min-width:601px) and (min-height:700px), (max-width:600px) and (min-height:700px)').matches;
-  if(overview&&runway&&stage&&cards.length>1&&supportsStack){
+  if(overview&&runway&&stage&&cards.length>1){
    overview.dataset.motion='stack';
    cards.forEach((card,i)=>{card.style.zIndex=String(i+1);card.inert=i!==0;if(i)card.setAttribute('aria-hidden','true');});
    const headerHeight=()=>document.querySelector('.site-header')?.getBoundingClientRect().height||0;
-   const headingGap=30;
-   const startLead=80;
+   const headingGap=()=>parseFloat(getComputedStyle(overview).paddingTop)||0;
+   const startLead=0;
    const headingSpace=()=>{const style=getComputedStyle(heading);return heading.getBoundingClientRect().height+(parseFloat(style.marginBottom)||0);};
-   const reservedSpace=()=>headerHeight()+headingGap+headingSpace();
+   const reservedSpace=()=>headerHeight()+headingGap()+headingSpace();
    const travel=()=>Math.round(innerHeight*.72*(cards.length-1));
-   const measure=()=>{const reserved=reservedSpace();const height=Math.min(690,Math.max(320,innerHeight-reserved-52));overview.style.setProperty('--service-heading-top',`${headerHeight()+headingGap}px`);overview.style.setProperty('--service-stage-top',`${reserved}px`);stage.style.height=`${height}px`;runway.style.height=`${height+travel()}px`;};
+   const measure=()=>{const reserved=reservedSpace();const height=Math.max(240,innerHeight-reserved-36);overview.style.setProperty('--service-heading-top',`${headerHeight()+headingGap()}px`);overview.style.setProperty('--service-stage-top',`${reserved}px`);stage.style.height=`${height}px`;runway.style.height=`${height+travel()}px`;};
    measure();
    gsap.set(cards.slice(1),{xPercent:112,rotation:4});
    const timeline=gsap.timeline({scrollTrigger:{trigger:runway,start:()=>`top ${reservedSpace()+startLead}px`,end:()=>`+=${travel()+startLead}`,scrub:.5,invalidateOnRefresh:true,onRefreshInit:measure,onUpdate:self=>{
@@ -61,7 +60,6 @@ export function createBrandMotion(reduced=false){
     cards.slice(0,i).forEach((card,j)=>{const depth=i-j;timeline.to(card,{x:-depth*14,y:-depth*16,scale:1-depth*.012,opacity:1-depth*.04,ease:'none',duration:.9},i-1);});
     timeline.fromTo(cards[i],{xPercent:112,rotation:4},{xPercent:0,rotation:0,ease:'power3.out',duration:.9},i-1);
    }
-   timeline.to([heading,stage],{y:-(headingSpace()+headingGap),ease:'none',duration:.6},cards.length-1);
    disposers.push(()=>{delete overview.dataset.motion;overview.style.removeProperty('--service-heading-top');overview.style.removeProperty('--service-stage-top');stage.style.removeProperty('height');runway.style.removeProperty('height');cards.forEach(card=>{card.style.removeProperty('z-index');card.inert=false;card.removeAttribute('aria-hidden');});});
   }
   const steps=document.querySelector('.process-steps');
