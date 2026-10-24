@@ -286,7 +286,7 @@
 @media(min-width:601px) and (max-width:900px) {
   :is(.reduced-motion,.no-js) .brand-ribbon-group { grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 14px;padding:12px; }
 }
-#app .deck-card.deck-eco .deck-summary { max-width:none;font-size:clamp(20px,1.35vw,23px);font-style:italic;line-height:1.4;margin-top:24px; }
+#app .deck-card.deck-eco .deck-summary { max-width:none;font-size:clamp(20px,1.35vw,23px);font-style:italic;line-height:1.55;margin-top:24px; }
 
 /* Give short section introductions a distinct, editorial voice throughout the page. */
 #app .deck-card .deck-summary,
@@ -329,7 +329,7 @@
   #app .live-copy>p { font-size:18px; }
 }
 @media(max-width:900px) {
-  #app .deck-card.deck-eco .deck-summary { font-size:18px;line-height:1.4;margin-top:18px; }
+  #app .deck-card.deck-eco .deck-summary { font-size:18px;line-height:1.55;margin-top:18px; }
 }
 @media(max-width:600px) {
   .deck-card .entry-price-amount { font-size:clamp(38px,11vw,47px); }
@@ -359,8 +359,8 @@
   .is-service-scroll .deck-card .entry-price { font-size:29px; }
   .is-service-scroll .deck-card .entry-price-amount { font-size:36px; }
   #app .is-service-scroll .deck-card .entry-price-terms { font-size:8px;line-height:1.3;margin-top:4px; }
-  #app .is-service-scroll .deck-card .deck-summary { font-size:16px;line-height:1.35;margin-top:5px; }
-  #app .is-service-scroll .deck-card.deck-eco .deck-summary { font-size:16px;line-height:1.35;margin-top:12px; }
+  #app .is-service-scroll .deck-card .deck-summary { font-size:16px;line-height:1.55;margin-top:5px; }
+  #app .is-service-scroll .deck-card.deck-eco .deck-summary { font-size:16px;line-height:1.55;margin-top:12px; }
   .is-service-scroll .deck-cta { margin-top:6px; }
   .is-service-scroll .deck-cta .button { min-height:34px;font-size:10px;padding:7px 10px; }
   .is-service-scroll .entry-proposals.service-deck .deck-controls { min-height:30px; }
@@ -375,7 +375,7 @@
 }
 
 #app .deck-card .deck-title-row { margin-top:18px; }
-#app .deck-card .deck-summary { margin-top:24px;line-height:1.4; }
+#app .deck-card .deck-summary { margin-top:24px;line-height:1.55; }
 #app .deck-card .deck-cta { margin-top:30px; }
 @media(max-width:600px) {
   #app .deck-card .deck-title-row { margin-top:14px; }
